@@ -1,4 +1,7 @@
 /* All pages */
+html {
+  scroll-padding-top: 4rem;
+}
 body {
   color: #F5F5F5;
   background-color: #121212;

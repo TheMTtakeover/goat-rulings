@@ -22,11 +22,11 @@
     <!-- Local style sheet -->
     <link rel="stylesheet" href="css/master.css" />
 
-    <title>retroRulings</title>
+    <title>Fire-Water Individual Card Rulings</title>
   </head>
   <body>
   <!-- Navbar -->
-    <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+    <nav class="navbar sticky-top navbar-expand-md navbar-dark bg-dark">
       <div class="container-fluid">
         <a class="navbar-brand" href="index.html">retroRulings</a>
         <button
@@ -36,20 +36,24 @@
           data-bs-target="#navbarToggler"
           aria-controls="navbarTogglerDemo02"
           aria-expanded="false"
-          aria-label="Toggle navigation"
-        >
+          aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarToggler">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                      <li class="nav-item">
-              <a class="nav-link" href="index.html">Formats</a>
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="fire-water-indv-rulings.html">Indivdual Card rulings</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="fire-water-all-rulings.html">All Rulings</a>
+            </li>
             <li class="nav-item">
               <a class="nav-link" href="faq.html">FAQ</a>
             </li>
             <li class="nav-item">
               <a class="nav-link" href="https://github.com/TheMTtakeover/goat-rulings" target="_blank"
-                ><span class="fa-brands fa-github fa-lg"></span></a>
+                ><span class="fa-brands fa-github fa-lg"></span
+              ></a>
             </li>
           </ul>
         </div>
@@ -59,14 +63,14 @@
     <button type="button" class="btn btn-floating btn-lg" id="btn-back-to-top">Top</button>
 
     <div class="container mx-auto max-width-1100">
-      <h2 id="goat-format-rulings">Rulings for Retro Yu-Gi-oh! Formats</h2>
-      <h4 id="quicklinks-for-individual-card-rulings">Select a Format</h4>
-      <!--
+      <h2 id="goat-format-rulings">Fire-Water/Vegas/HAT Format Rulings</h2>
+      <h4 id="quicklinks-for-individual-card-rulings">Quicklinks for Individual Card Rulings</h4>
+      <p>The rulings for this format are still a work in progress. While the rulings on this page are there may be a lot of formatting issues while rulings are still being added</p>
       <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." />
--->
+
       <ul id="myUL">
-        <li><a href="goat-indv-rulings.html">Goat</a></li>
-        <li><a href="fire-water-indv-rulings.html"><s>Fire-Water/Vegas/HAT</s> Coming Soon!</a></li>
+        <li><a href="./fire-water-all-rulings.html#Bujin Yamato">Bujin Yamato</a></li>
+        <li><a href="./fire-water-all-rulings.html#Evilswarm Castor">Evilswarm Castor</a></li>
       </ul>
     </div>
     <script>
@@ -94,9 +98,7 @@
       }
     </script>
 
- <!--   Script for searching
- 
- <script>
+    <script>
       function myFunction() {
         // Declare variables
         var input, filter, ul, li, a, i, txtValue;
@@ -117,6 +119,5 @@
         }
       }
     </script>
-    -->
   </body>
 </html>
