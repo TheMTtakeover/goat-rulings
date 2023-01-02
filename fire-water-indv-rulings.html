@@ -1,123 +1,18 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width initial-scale=1" />
-    <!-- Bootstrap -->
-    <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
-      rel="stylesheet"
-      integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
-      crossorigin="anonymous"
-    />
-    <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
-      crossorigin="anonymous"
-    ></script>
+---
+layout: default
+---
+<!-- Back to top button -->
+<button type="button" class="btn btn-floating btn-lg" id="btn-back-to-top">Top</button>
 
-    <!-- Font Awesome -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+<h2 id="goat-format-rulings">Ruler/Fire-Water/Vegas Format Rulings</h2>
+<h4 id="quicklinks-for-individual-card-rulings">Quicklinks for Individual Card Rulings</h4>
+<p>The rulings for this format are still a work in progress. While the rulings on this page are there may be a lot of formatting issues while rulings are still being added</p>
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." />
 
-    <!-- Local style sheet -->
-    <link rel="stylesheet" href="css/master.css" />
-
-    <title>Fire-Water Individual Card Rulings</title>
-  </head>
-  <body>
-  <!-- Navbar -->
-    <nav class="navbar sticky-top navbar-expand-md navbar-dark bg-dark">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="index.html">retroRulings</a>
-        <button
-          class="navbar-toggler"
-          type="button"
-          data-bs-toggle="collapse"
-          data-bs-target="#navbarToggler"
-          aria-controls="navbarTogglerDemo02"
-          aria-expanded="false"
-          aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarToggler">
-          <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="fire-water-indv-rulings.html">Indivdual Card rulings</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="fire-water-all-rulings.html">All Rulings</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="faq.html">FAQ</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="https://github.com/TheMTtakeover/goat-rulings" target="_blank"
-                ><span class="fa-brands fa-github fa-lg"></span
-              ></a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
-    <!-- Back to top button -->
-    <button type="button" class="btn btn-floating btn-lg" id="btn-back-to-top">Top</button>
-
-    <div class="container mx-auto max-width-1100">
-      <h2 id="goat-format-rulings">Fire-Water/Vegas/HAT Format Rulings</h2>
-      <h4 id="quicklinks-for-individual-card-rulings">Quicklinks for Individual Card Rulings</h4>
-      <p>The rulings for this format are still a work in progress. While the rulings on this page are there may be a lot of formatting issues while rulings are still being added</p>
-      <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names.." />
-
-      <ul id="myUL">
-        <li><a href="fire-water-all-rulings.html#Bujin Yamato">Bujin Yamato</a></li>
-        <li><a href="fire-water-all-rulings.html#Evilswarm Castor">Evilswarm Castor</a></li>
-      </ul>
-    </div>
-    <script>
-      //Get the button
-      let mybutton = document.getElementById("btn-back-to-top");
-
-      // When the user scrolls down 20px from the top of the document, show the button
-      window.onscroll = function () {
-        scrollFunction();
-      };
-
-      function scrollFunction() {
-        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
-          mybutton.style.display = "block";
-        } else {
-          mybutton.style.display = "none";
-        }
-      }
-      // When the user clicks on the button, scroll to the top of the document
-      mybutton.addEventListener("click", backToTop);
-
-      function backToTop() {
-        document.body.scrollTop = 0;
-        document.documentElement.scrollTop = 0;
-      }
-    </script>
-
-    <script>
-      function myFunction() {
-        // Declare variables
-        var input, filter, ul, li, a, i, txtValue;
-        input = document.getElementById("myInput");
-        filter = input.value.toUpperCase();
-        ul = document.getElementById("myUL");
-        li = ul.getElementsByTagName("li");
-
-        // Loop through all list items, and hide those who don't match the search query
-        for (i = 0; i < li.length; i++) {
-          a = li[i].getElementsByTagName("a")[0];
-          txtValue = a.textContent || a.innerText;
-          if (txtValue.toUpperCase().indexOf(filter) > -1) {
-            li[i].style.display = "";
-          } else {
-            li[i].style.display = "none";
-          }
-        }
-      }
-    </script>
-  </body>
-</html>
+<ul id="myUL">
+  <li><a href="fire-water-all-rulings.html#Bujin Yamato">Bujin Yamato</a></li>
+  <li><a href="fire-water-all-rulings.html#Evilswarm Castor">Evilswarm Castor</a></li>
+</ul>
+      
+<script src="scripts/btn-back-to-top.js"></script>
+<script src="scripts/search.js"></script>
