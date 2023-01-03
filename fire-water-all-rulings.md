@@ -5,7 +5,7 @@ layout: default
 ## Card Rulings
 
 <!-- Back to top button -->
-<button type="button" class="btn btn-floating btn-lg" id="btn-back-to-top"><span class="fa-solid fa-arrow-up"></span></button>
+<button type="button" class="btn btn-floating btn-lg btn-top" id="btn-back-to-top"><span class="fa-solid fa-arrow-up"></span></button>
 
 #### Bujin Yamato
 
