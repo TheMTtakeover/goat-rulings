@@ -24,6 +24,7 @@ h4 {
   padding-top: 25px;
   padding-bottom: 10px;
 }
+
 .max-width-1100 {
   max-width: 900px;
 }
@@ -62,15 +63,15 @@ background-color: #212529;
   display: none;
 }
 
-.btn {
-  background-color: #B8556C;
-  border-color: #B8556C;
+.btn-top {
   color: #ffffff;
+  border-color: white;
 }
 
-.btn:hover {
-  color: black;
+.btn-top:hover {
+  color: #ffffff;
   background-color: #B8556C;
+  border-color: white;
 }
 
 /* Ruling list page */
@@ -95,11 +96,26 @@ background-color: #212529;
   padding-top: 20px;
 }
 
+/* Buttons on download page */
 .download-btn-md {
   width:160px;
   margin-top:5px;
+  background-color: #B8556C;
+  border-color: #B8556C;
+  color: #ffffff;
 }
 
 .download-btn-pdf {
   width: 160px;
   margin-top: 10px;
+  background-color: #B8556C;
+  border-color: #B8556C;
+  color: #ffffff;
+}
+
+.download-btn-md:hover {
+  border-color: white;
+}
+.download-btn-pdf:hover {
+  border-color: white;
+}
