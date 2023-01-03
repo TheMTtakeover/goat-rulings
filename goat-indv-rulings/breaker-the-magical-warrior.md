@@ -1,0 +1,21 @@
+---
+layout: goat-indv-card
+---
+
+#### BREAKER THE MAGICAL WARRIOR
+
+Individual Card FAQs:
+
+*   Placing a Spell Counter on "Breaker, the Magical Warrior" is a chain that begins after it is Summoned. If your opponent chains "Trap Hole" or "Ring of Destruction" to the placement of a Spell Counter on "Breaker, the Magical Warrior", "Trap Hole" / "Ring of Destruction" resolves before the Spell Counter is placed on "Breaker, the Magical Warrior", so you cannot chain "Breaker, the Magical Warrior"'s effect.
+*   "Breaker, the Magical Warrior"'s effect is Spell Speed 1 so you cannot chain it to the activation of a Spell Card.
+*   You can use "Breaker, the Magical Warrior"'s effect multiple times in the same turn as long as you can keep re-supplying him with Spell Counters (using "Pitch-Black Power Stone", etc.).
+*   Removing a Spell Counter is a cost; if you remove a Spell Counter from "Breaker, the Magical Warrior" and your opponent chains "Ring of Destruction", the Spell Counter has already been removed so "Ring of Destruction" deals 1600 damage to each player; "Breaker, the Magical Warrior"'s effect that destroys a card is still applied even though "Breaker, the Magical Warrior" himself has been destroyed at that point.
+*   If I chain "Ring of Destruction" to the placement of a Spell Counter on "Breaker, the Magical Warrior", "Ring of Destruction" does 1600 damage to each player because the action of placing the Spell Counter has not resolved.
+
+Netrep Rulings:
+
+*   “Breaker the Magical Warrior” only receives its Spell Counter when it is Normal Summoned.
+*   “Breaker the Magical Warrior” does not get its Spell Counter when it is Flip Summoned or Special Summoned.
+*   When “Breaker the Magical Warrior” is Normal Summoned, the placement of the Spell Counter is the event to be chained to with “Trap Hole”, “Bottomless Trap Hole,” “Ring of Destruction,” etc.
+*   The removal of the Spell Counter on “Breaker the Magical Warrior” is a Cost Effect. It is Speed 1 and may not be chained to any other effect.
+*   “Breaker the Magical Warrior’s” effect may not be activated if there are no Spell or Trap cards on the field.

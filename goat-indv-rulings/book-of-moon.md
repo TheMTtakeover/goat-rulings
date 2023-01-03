@@ -1,0 +1,33 @@
+---
+layout: goat-indv-card
+---
+
+#### BOOK OF MOON
+
+Individual Card FAQs:
+
+*   When you activate "Book of Moon" during the Battle Step to flip your defending monster into face-down Defense Position, the attack resolves as normal. No replay occurs because the possible attack targets on your side of the field did not change.
+*   When you activate "Book of Moon" during the Battle Step to flip an attacking monster into face-down Defense Position, the attack stops. No replay is triggered. The attacking monster cannot change its battle position in Main Phase 2, because it is still considered to have declared an attack. (So it cannot be Flip Summoned in Main Phase 2.)
+*   If you are attacking, and you chain "Book of Moon" to your opponent’s "Mirror Force" to flip one of your monsters face-down, that monster is not destroyed by "Mirror Force".
+*   If you chain "Book of Moon" to "Magic Cylinder", "Ring of Destruction", or "Trap Hole" to flip the target of any of those cards face-down, the card’s effect disappears. (See "Activation & Targeting Eligibility" in the Advanced FAQ.)
+*   If you use "Book of Moon" on a monster that had its ATK doubled with "Limiter Removal", the monster is not destroyed at the end of the turn.
+*   If you chain "Book of Moon" to "Bottomless Trap Hole", the now face-down monster will not be destroyed by "Bottomless Trap Hole", but any other appropriate monsters Summoned at the same time will still be destroyed.
+*   If you use "Book of Moon" on "Dream Clown", "Dream Clown"’s effect is not activated.
+*   If you chain "Book of Moon" to the activation of a Flip Effect Monster’s effect, such as "Fiber Jar", "Book of Moon" flips the monster face-down again, but the Flip Effect still resolves as normal.
+*   You cannot flip a Monster Token face-down because Monster Tokens are always face-up.
+*   You cannot activate "Book of Moon" while "Light of Intervention" is active.
+
+Netrep Rulings:
+
+*   If “Book of Moon” is activated on a defending monster, the attack resolves as normal.
+*   If “Book of Moon” resolves on an attacking monster, the attack stops at that point. The Damage Step is not reached at that point.
+*   A monster turned face-down by the effect of “Book of Moon” in response to the declaration of an attack does not trigger a Replay.
+*   Effects that require face-up targets will have their effects disappear if “Book of Moon” is chained and successfully resolves to them. This includes “Mirror Force,” “Magic Cylinder,” and “Ring of Destruction.”
+*   Monsters with Continuous effects have their effects cease when turned face-down by “Book of Moon.”
+*   Monsters that are turned face down by “Book of Moon” have their effects reset. This includes “Suijin,” which will be allowed to use its effect again when turned face up.
+*   If “Book of Moon” is chained to a Flip effect, the Flip effect will resolve as normally unless the Flip effect requires the monster to remain face-up.
+*   Tokens may not be turned face down by “Book of Moon.”
+*   If a monster Special Summoned with “Call of the Haunted” is turned face-down by “Book of Moon,” that monster will remain on the field and “Call of the Haunted” will remain face-up on the field meaninglessly.
+*   If a monster that changes control via “Change of Heart” is turned face-down by “Book of Moon,” the monster will return to the original controller’s field when the turn ends as normal per “Change of Heart.”
+*   If a monster Special Summoned and Equipped with “Premature Burial” is turned face-down by “Book of Moon,” that monster will remain on the field and “Premature Burial” will be sent to the Graveyard as it no longer has a legal target.
+*   If a monster equipped with “Snatch Steal” is turned face-down by “Book of Moon”, “Snatch Steal” will be sent to the Graveyard as it no longer has a legal target and control of that monster will remain with the controller of “Snatch Steal.”
