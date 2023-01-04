@@ -1,15 +1,6 @@
 ---
-layout: default
+layout: fw-indv-card
 ---
-
-## Card Rulings
-
-<!-- Back to top button -->
-<button type="button" class="btn btn-floating btn-lg btn-top" id="btn-back-to-top"><span class="fa-solid fa-arrow-up"></span></button>
-
-#### Bujin Yamato
-
--   First Ruling
 
 #### Evilswarm Castor
 
@@ -17,5 +8,3 @@ layout: default
 -   The effect that performs an additional Normal Summon of an "lswarm" monster cannot be used to Set a monster in face-down Defense Position.
 -   If this card is Normal Summoned while "Skill Drain" is active, the effect that performs an additional Normal Summon cannot be applied.
 -   If "Skill Drain" is activated after this card is Normal Summoned, the effect that performs an additional Normal Summon can be applied.
-
-<script src="scripts/btn-back-to-top.js"></script>

@@ -45,7 +45,16 @@ a:hover {
   color: #B8556C;
 }
 
+li {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
 /*Nav Bar*/
+.navbar {
+  background: #49222b !important;
+
+}
 .navbar-brand {
   margin-left: 10px;
 }
@@ -62,6 +71,7 @@ nav a{
 
 nav a:hover {
   color: #B8556C !important;
+  background-color: black !important;
 }
 
 .dropdown-item:hover {
@@ -116,7 +126,7 @@ nav a:hover {
 }
 
 /* Buttons on download page */
-.download-btn-md {
+.download-btn {
   width:100%;
   max-width: 225px;
   background-color: #B8556C;
@@ -124,19 +134,7 @@ nav a:hover {
   color: #ffffff;
 }
 
-.download-btn-pdf {
-  width: 100%;
-  max-width: 225px;
-  background-color: #B8556C;
-  border-color: #B8556C;
-  color: #ffffff;
-}
-
-.download-btn-md:hover {
-  color: #B8556C;
-  border-color: white;
-}
-.download-btn-pdf:hover {
+.download-btn:hover {
   color: #B8556C;
   border-color: white;
 }
