@@ -1,4 +1,12 @@
 /* All pages */
+@font-face {
+  font-family: 'retro_gamingregular';
+  src: url('/assets/fonts/retro/retro_gaming-webfont.woff2') format('woff2'),
+       url('/assets/fonts/retro/retro_gaming-webfont.woff2') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
 html {
   scroll-padding-top: 4rem;
 }
@@ -7,21 +15,21 @@ body {
   color: #F5F5F5;
   background-color: #121212;
   line-height: 1.6;
-  font-size: 17px !important;
+  font-size: 19px;
 }
 
 h2 {
-  padding-top: 15px;
+  padding-top: 30px;
   padding-bottom: 10px;
 }
 
 h3 {
-  padding-top: 25px;
+  padding-top: 30px;
   padding-bottom: 10px;
 }
 
 h4 {
-  padding-top: 25px;
+  padding-top: 30px;
   padding-bottom: 10px;
 }
 
@@ -30,23 +38,34 @@ h4 {
 }
 
 a {
-  color: #F5F5F5 !important;
+  color: #F5F5F5;
 }
 
 a:hover {
-  color: #B8556C !important;
+  color: #B8556C;
 }
 
 /*Nav Bar*/
-.navbar-bg {
-  background-color: #B8556C;
+.navbar-brand {
+  margin-left: 10px;
 }
 
-.dropdown-menu{
-background-color: #212529;
+.brand{
+  font-family: retro_gamingregular;
+  font-size: 22px !important;
+}
+
+nav a{
+  font-size: 17px !important;
+  color: white !important;
+}
+
+nav a:hover {
+  color: #B8556C !important;
 }
 
 .dropdown-item:hover {
+  color: #B8556C !important;
   background-color: #212529;
 }
 
@@ -64,13 +83,14 @@ background-color: #212529;
 }
 
 .btn-top {
-  color: #ffffff;
+  color: white;
+  background-color: #B8556C;
   border-color: white;
 }
 
 .btn-top:hover {
-  color: #ffffff;
-  background-color: #B8556C;
+  color: #B8556C;
+  background-color: black;
   border-color: white;
 }
 
@@ -82,12 +102,11 @@ background-color: #212529;
 }
 
 #myUL li a {
-    border: 1px solid #ddd;
+  border: 1px solid #ddd;
   margin-top: -1px; /* Prevent double borders */
   padding: 12px;
   text-decoration: none;
   font-size: 18px;
-  color: black;
   display: block
 }
 
@@ -98,24 +117,26 @@ background-color: #212529;
 
 /* Buttons on download page */
 .download-btn-md {
-  width:160px;
-  margin-top:5px;
+  width:100%;
+  max-width: 225px;
   background-color: #B8556C;
   border-color: #B8556C;
   color: #ffffff;
 }
 
 .download-btn-pdf {
-  width: 160px;
-  margin-top: 10px;
+  width: 100%;
+  max-width: 225px;
   background-color: #B8556C;
   border-color: #B8556C;
   color: #ffffff;
 }
 
 .download-btn-md:hover {
+  color: #B8556C;
   border-color: white;
 }
 .download-btn-pdf:hover {
+  color: #B8556C;
   border-color: white;
 }

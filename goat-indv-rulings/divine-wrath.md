@@ -1,0 +1,36 @@
+---
+layout: goat-indv-card
+---
+
+#### DIVINE WRATH
+
+Individual Card FAQs:
+
+*   You can activate the effect of “Divine Wrath” to a Flip Effect, Ignition Effect, Trigger Effect, or Multi-Trigger Effect. But not to a Continuous Effect. This is because Continuous Effects cannot be chained to.
+*   “Divine Wrath” is NOT a card that targets, so “Divine Wrath” may be used against Dragon-Type monsters while “King Dragun” or “Lord of D.” is on the field.
+*   You can activate the effect of "Divine Wrath" against an effect monster's effect that happens anywhere: on the field, in the hand, in the Graveyard, or removed from play.
+*   You must chain "Divine Wrath" to an effect directly preceeding it in the chain. For example, if "Airknight Parshath" equipped with "Cestus of Dagla" attacks a Defense Position monster, "Airknight Parshath" inflicts damage to the opponent's Life Points during damage calculation. Then, during effect resolution, there are 2 simultaneous Trigger Effects that the controller places in a chain however he likes. If the effect of "Airknight Parshath" is Step 1 and "Cestus of Dagla" is Step 2, the opponent cannot chain "Divine Wrath". However, if "Cestus of Dagla" is Step 1 and "Airknight Parshath" is Step 2, "Divine Wrath" can be chained. In this case, the effect of "Airknight Parshath" that allows the controller to draw a card is negated, "Airknight Parshath" is destroyed, and the effect of "Cestus of Dagla" disappears before it resolves.
+*   Another example: if "D.D. Warrior Lady" attacks a face-down "Morphing Jar", and activates her effect to remove both cards from play, "D.D. Warrior Lady" is Step 2 because she has an optional effect, and "Morphing Jar" is Step 1 because its effect is mandatory. So "Divine Wrath" can be chained to the effect of "D.D. Warrior Lady" to negate its effect, but not to the effect of "Morphing Jar" to negate its effect.
+*   You can chain “Divine Wrath” to the effect of “The Creator” (Ignition Effect), “Fox Fire” when it is Special Summoned (Trigger Effect), “Strike Ninja” (Multi-Trigger Effect), and “Homunculus the Alchemic Being” (Ignition Effect).
+*   You can activate “Divine Wrath” in a chain to a Trigger Effect that activates when the Effect Monster is Summoned such as “Breaker the Magical Warrior”, “Dark Magician of Chaos”, or “Marauding Captain”. The opponent must declare the activation of “Marauding Captain”’s effect before “Divine Wrath” can be activated. In this case, the monster that would have been Special Summoned remains in the opponent’s hand.
+*   You can activate “Divine Wrath” during the Damage Step because it is a Counter-Trap, so you may activate it to negate the effect of “D. D. Warrior Lady”, “Reflect Bounder”, “Injection Fairy Lily”, “D. D. Crazy Beast”, "Dark Paladin", or “Mystical Knight of Jackal”.
+*   If you activate "Divine Wrath" during the Damage Step to destroy the attacking monster or the monster being attacked, the monster is destroyed. No replay occurs because a replay can only happen during the Battle Step. If damage calculation has not been performed yet, it is not performed.
+*   You can activate “Divine Wrath” against “Sasuke Samurai” or “Mystic Swordsman LV2” when they attack a face-down Defense Position monster.
+*   You can activate “Divine Wrath” to negate either effect of “Don Zaloog” and to negate the effect of “Airknight Parshath” that allows its controller to draw a card.
+*   You can activate “Divine Wrath” to negate an effect that activates in the Graveyard, such as “Witch of the Black Forest”, “Mystic Tomato”, “Despair from the Dark”, “Night Assailant”, “Electric Snake”, and “Sangan”.
+*   You can activate “Divine Wrath” when the opponent discards “Kuriboh” from his / her hand to negate the effect of “Kuriboh” and when a “Night Assailant” is discarded to negate the effect of returning a Flip Effect monster to the owner’s hand.
+*   You can activate “Divine Wrath” when “Exiled Force”, “Red-Eyes B. Chick”, or “Paladin of White Dragon” is Tributed for its own effect.
+*   You can activate “Divine Wrath” when “Dark Necrofear” activates its effect in the Graveyard during the End Phase, and since a monster in the Graveyard cannot be destroyed, "Dark Necrofear" is not destroyed by a card effect, so its effect does not activate again.
+*   You can chain “Divine Wrath” to the effect of “King Dragun” that Special summons a Dragon-Type monster.
+*   You can activate “Divine Wrath” when the opponent uses “Relinquished”’s effect to equip itself with a monster, or when “Relinquished”’s effect inflicts damage.
+*   You can activate “Divine Wrath” when a Spirit Monster is returned to the owner’s hand by its own effect, and the Spirit Monster will be destroyed and sent to the Graveyard.
+*   You can activate "Divine Wrath" when the effect of "Helpoemer" activates in the Graveyard, and the effect of "Helpoemer" will not activate again.
+*   You can activate "Divine Wrath" when "Vampire Lord" or "Sacred Phoenix of Nephthys" activate their effects in the Graveyard, and their effects are negated and they are not Special Summoned; but because they cannot be "destroyed" while in the Graveyard, they are not destroyed by a card effect so their effect will not activate again.
+*   You can chain "Divine Wrath" to the activation of "Peten the Dark Clown", and the effect of "Peten the Dark Clown" will not resolve (however, the "Peten the Dark Clown" that was removed from play remains out of play).
+*   You can activate "Divine Wrath" when the effect of "Black Luster Soldier - Envoy of the Beginning" activates that allows it to attack a second time.
+*   You cannot chain “Divine Wrath” to Continuous Effects such as: “Perfect Machine King”, “Raging Flame Sprite” (either effect), “Jinzo”, “Fire Princess”, “Mad Sword Beast”, “Hayabusa Knight”, “Cat’s Ear Tribe”, “Amazoness Swords Woman”, “Harpie Lady 3”, “Fusilier Dragon the Dual-Mode Beast”, “The Fiend Megacyber”, “Blade Knight” (either effect), "Patrician of Darkness", or monsters like “Element Saurus” that gain ATK continuously.
+*   You cannot activate “Divine Wrath” when “Giant Orc”, “Goblin Attack Force”, or “Spear Dragon” changes to Defense Position because these are considered Continuous Effects.
+*   You can activate “Divine Wrath” when “Lava Golem” does damage to your Life Points, but you cannot activate it when “Lava Golem” is Special Summoned.
+*   You can activate “Divine Wrath” when any Union Monster activates its effect to equip itself to another monster, because that is an Ignition Effect. However, you cannot activate “Divine Wrath” when a Union Monster Special Summons itself back as a monster, because that is an effect of an Equip Spell Card.
+*   You can activate “Divine Wrath” when a “LV” monster is sent to the Graveyard to Special Summon the next level version (an Ignition Effect), and “Divine Wrath” will negate that effect, even though it cannot destroy the “LV” monster because it is already in the Graveyard.
+*   After you negate the effect of “Sinister Serpent” with “Divine Wrath”, your opponent can activate the effect of “Sinister Serpent” again to return it to his hand, even during the same Standby Phase.

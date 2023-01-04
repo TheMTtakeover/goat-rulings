@@ -1,6 +1,7 @@
 ---
 layout: goat-indv-card
 ---
+
 #### 3-HUMP LACOODA
 
 Individual Card FAQs:

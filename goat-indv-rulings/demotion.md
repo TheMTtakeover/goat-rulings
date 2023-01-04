@@ -1,0 +1,10 @@
+---
+layout: goat-indv-card
+---
+
+#### DEMOTION
+
+Individual Card FAQs:
+
+*   A monster's Level cannot go below 1.
+*   You can equip 2 "Demotions" to a monster to reduce its Level by 4.
