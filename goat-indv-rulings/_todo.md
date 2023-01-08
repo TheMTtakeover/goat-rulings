@@ -3565,6 +3565,11 @@ Judge List Rulings:
 *   A face-down card equipped to "Relinquished"/"Thousand-Eyes Restrict" is a legal target for "Nobleman of Extermination." Curtis Schultz, 03/09/2005
 *   A face-down card equipped to "Relinquished"/"Thousand-Eyes Restrict" will be returned to its owner's hand by "Byser Shock's" effect. Curtis Schultz, 03/09/2005
 
+GoatRulings.com Rulings:
+
+- Q: If I summon "Relinquished" and use its effect, what happens if my opponent chains a card that would flip-down or remove "Relinquished" from the field?  
+A: For this example, say you declare the effect of "Relinquished" and your opponent chains "Book of Moon" to the effect. "Relinquished" would be chain link 1 and "Book of Moon" would be chain link 2. In Yu-Gi-Oh! chains always resolve backwards. "Book of Moon" will resolve first, flipping down "Relinquished". "Relinquished" needs to be face up on the field to attach a monster to itself, so its effect will "fizzle" and the targeted monster will remain on the field. This applies to cards such as (but not limited to) "Book of Moon", "Ring of Destruction", and "Compulsory Evacuation Device".
+
 #### RELOAD
 
 Individual Card FAQs:
@@ -5372,6 +5377,14 @@ Netrep Q&As:
 
 *   Q: If “Thousand Eyes Restrict” is Special Summoned and declares the activation of its effect on the opponent’s “Gemini Elf”, can the opponent activate “Ring of Destruction”?  
     A: The player controlling the "Ring of Destruction" could activate it when "Thousand Eyes Restrict" targets "Gemini Elf" with its effect. They could destroy the "Gemini Elf" in a chain. You could use "Ring of Destruction" and target the "Thousand Eyes Restrict" if you want to. You would use the same chain I demonstrated earlier, only the "Thousand Eyes Restrict" would be destroyed and would not be able to resolve its effect properly. Curtis Schultz, 02/18/2004
+    
+
+GoatRulings.com Rulings:
+
+- Q: If I summon "Thousand-Eyes Restrict" and use its effect, what happens if my opponent chains a card that would flip-down or remove "Thousand-Eyes Restrict" from the field?  
+A: For this example, say you declare the effect of "Thousand-Eyes Restrict" and your opponent chains "Book of Moon" to the effect. "Thousand-eyes Restrict" would be chain link 1 and "Book of Moon" would be chain link 2. In Yu-Gi-Oh! chains always resolve backwards. "Book of Moon" will resolve first, flipping down "Thousand-Eyes Restrict". "Thousand-Eyes Restrict" needs to be face up on the field to attach a monster to itself, so its effect will "fizzle" and the targeted monster will remain on the field. This applies to cards such as (but not limited to) "Book of Moon", "Ring of Destruction", and "Compulsory Evacuation Device".
+
+
 
 #### THOUSAND ENERGY
 
