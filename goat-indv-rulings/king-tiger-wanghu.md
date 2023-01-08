@@ -1,0 +1,23 @@
+---
+layout: goat-indv-card
+---
+
+#### KING TIGER WANGHU
+
+Individual Card FAQs:
+
+*   Monsters with ATK 1400 or less that are already on the field when "King Tiger Wanghu" is Summoned are not destroyed. "King Tiger Wanghu"’s effect only applies to monsters Summoned while it is face-up on the field.
+*   When a monster is Flip Summoned or flipped face-up by a card effect, it is not destroyed by the effect of "King Tiger Wanghu".
+*   "King Tiger Wanghu"’s effect applies to both sides of the field.
+*   When "King Tiger Wanghu" is Special Summoned by the effect of "Cyber Jar", other monsters with ATK 1400 or less that are Special Summoned by the same "Cyber Jar" are destroyed if they are Special Summoned in face-up Attack Position.
+*   If a monster’s ATK when it is Summoned is less than 1400 due to the effect of other cards, such as a Field Spell Card that reduces its ATK, it is destroyed by "King Tiger Wanghu"’s effect (so apply all existing modifiers before determining if the monster is destroyed). If "Command Knight" is Summoned, it increases its own ATK to 1600 before "King Tiger Wanghu" can destroy it.
+*   If "King Tiger Wanghu" is Normal Summoned or Special Summoned, and its own ATK is reduced below 1400 by a pre-existing effect, then it destroys itself when Summoned. (Example: "King Tiger Wanghu" and "Bladefly" are Special Summoned simultaneously by "Cyber Jar". "King Tiger Wanghu"’s ATK is 1300, and it is destroyed by its own effect (and "Bladefly" is also destroyed by "King Tiger Wanghu"’s effect).
+*   Monsters that are Summoned face-down (like with "The Shallow Grave") are not destroyed by King Tiger Wanghu.
+*   "King Tiger Wanghu"’s effect includes Monster Tokens with ATK 1400 or less.
+*   If "King Tiger Wanghu" is on the field and "Marauding Captain" is Summoned, "Marauding Captain" can still activate its effect and Special Summon a monster even though "Marauding Captain" is destroyed.
+*   If "King Tiger Wanghu" is on the field along with Trigger Effect monsters such as "Mysterious Puppeteer", "Ryu-Kishin Clown", "Sonic Bird", and "Dragon Seeker", then they form a chain.
+*   If "King Tiger Wanghu" is on the field, and "Exiled Force" is Summoned, "King Tiger Wanghu"’s effect immediately activates. Since "Exiled Force" cannot be chained, "King Tiger Wanghu" will destroy "Exiled Force" before the turn player can Tribute "Exiled Force" using its effect.
+
+GoatRulings.com Rulings:
+
+*   If "Gyaku-Gire Panda" is summoned while "King Tiger Wanghu” is on the field, "Gyaku-Gire Panda" will NOT be destroyed if the opponent has enough monsters (2 or more in this case) to raise the attack of "Gyaku-Gire Panda” above the 1400 attack threshold.
