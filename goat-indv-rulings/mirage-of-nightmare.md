@@ -1,0 +1,36 @@
+---
+layout: goat-indv-card
+---
+
+
+
+#### MIRAGE OF NIGHTMARE
+
+Individual Card FAQs:
+
+*   If, after drawing during your opponent’s Standby Phase, your "Mirage of Nightmare" is destroyed before you have to discard, then you do not need to discard for its effect.
+*   You may activate "Mystical Space Typhoon" during your Draw Phase to destroy "Mirage of Nightmare" before you have to discard during your Standby Phase. If your Draw Phase was skipped for some reason, you can still activate "Mystical Space Typhoon" to destroy "Mirage of Nightmare" before activating the effect of "Mirage of Nightmare" that will force you to discard. (You can activate any number of effects during your own Standby Phase in any order you wish, as long as required effects are dealt with by the time you leave the Standby Phase and enter your Main Phase 1.)
+*   When the turn player controls "Mirage of Nightmare" and "Imperial Order": If you draw for "Mirage of Nightmare" during your opponent’s Standby Phase, and then activate "Imperial Order" after that, during your Standby Phase you will have 2 mandatory effects: discarding for "Mirage of Nightmare" and paying 700 Life Points for "Imperial Order" or else destroying it. In this case, you choose which effect to resolve first, and you can choose to resolve "Mirage of Nightmare" first, even though its effect will be negated by "Imperial Order". So you activate its effect, and do not discard. Then you can choose not to pay 700 Life Points to keep "Imperial Order", and "Imperial Order" will be destroyed. Then you can enter Main Phase 1, and you did not have to discard for "Mirage of Nightmare" (because its effect was negated at the time you chose to resolve it).
+*   When the turn player controls "Imperial Order" and the opponent controls "Mirage of Nightmare": If the opponent controls "Mirage of Nightmare" going into the turn player’s Standby Phase, and the turn player already controls a face-up "Imperial Order", then there are 2 mandatory effects that must be resolved: the turn player must pay 700 Life Points or destroy "Imperial Order", and the opponent must draw cards for "Mirage of Nightmare". The turn player has priority to resolve an effect first. If the turn player passes, priority goes to the opponent. If the opponent also passes, then the turn player must resolve an effect, and must pay for "Imperial Order" or it is destroyed. If he does not pay, and "Imperial Order" is destroyed, then the opponent can draw for "Mirage of Nightmare".
+*   The same procedure is used if both players control "Mirage of Nightmare". Generally, the turn player will first discard for "Mirage of Nightmare", then the opponent will draw for their "Mirage of Nightmare".
+*   If you discard "Sinister Serpent" during your Standby Phase for the effect of "Mirage of Nightmare", you may add "Sinister Serpent" back to your hand during that same Standby Phase.
+*   If you have multiple copies of "Mirage of Nightmare", you don’t draw for more than 1 because you have 4 cards in your hand from using the effect of only 1 of them; nor do you have to discard for the second copy because you didn’t draw any cards using its effect. If you draw so that you have 4 cards using 1 "Mirage of Nightmare", and some effect causes you to discard during that same Standby Phase, you may then activate the other "Mirage of Nightmare" to draw back up to 4; in this case you discard separately for each "Mirage of Nightmare" because you drew with both, and if 1 of them is destroyed you do not have to discard for its effect, only for the effect of the "Mirage of Nightmare" that was not destroyed.
+*   If you have 4 or more cards in your hand during your opponent’s Standby Phase, do not draw, and do not discard during your next Standby Phase (the effect of "Mirage of Nightmare" is not applied).
+*   If your Standby Phase is skipped because of "Solomon’s Lawbook", etc., do not discard for "Mirage of Nightmare".
+*   Drawing for "Mirage of Nightmare" is considered 1 draw no matter how many cards are drawn, so you only gain 500 Life Points if you have "Solemn Wishes".
+*   If you draw 3 cards for "Mirage of Nightmare", but only have 2 cards in your hand during your next Standby Phase, discard your entire hand (2 cards)
+
+Netrep Rulings:
+
+*   If Mirage of Nightmare is destroyed before you have to discard, then you do not need to discard for Mirage of Nightmare's effect.
+*   You may use Mystical Space Typhoon during the Draw Phase to destroy Mirage of Nightmare before you have to discard.
+*   If you have multiple copies of Mirage of Nightmare, you don't draw for more than 1 because you have 4 cards in your hand from using the effect of only 1 of them; nor do you have to discard for the second copy because you didn't draw any cards using its effect.
+*   If you draw so that you have 4 cards using 1 Mirage of Nightmare, and some effect causes you to discard during that same Standby Phase, you may activate the other Mirage of Nightmare to draw back up to 4; in this case you discard separately for each Mirage of Nightmare, and if 1 of them is destroyed you do not have to discard for its effect, only for the effect of the Mirage of Nightmare that was not destroyed.
+*   When both players have Mirage of Nightmare active, first the turn player discards for his/her Mirage of Nightmare, then the opponent draws for his/her Mirage of Nightmare. If you have 4 or more cards in your hand, do not draw, and do not discard down to 4 (Mirage of Nightmare's effect is not applied).
+*   If the Standby Phase is skipped by Solomon's Lawbook, etc., do not discard for Mirage of Nightmare's effect.
+*   If you discard Sinister Serpent during your Standby Phase for Mirage of Nightmare's effect, you may add Sinister Serpent back to your hand during that same Standby Phase.
+*   Drawing for Mirage of Nightmare is considered 1 draw no matter how many cards are drawn, so you only gain 500 Life Points if you have Solemn Wishes, etc.
+*   If you draw 3 cards for Mirage of Nightmare's effect, but only have 2 cards in your hand during your next Standby Phase, discard your entire hand (2 cards).
+*   If you draw for Mirage of Nightmare, and then activate Imperial Order, so that Imperial Order is active during your Standby Phase, you do not have to discard for Mirage of Nightmare.
+*   If you have Mirage of Nightmare and Imperial Order, during your Standby Phase you can activate Mirage of Nightmare's discard effect first (and NOT discard because Mirage of Nightmare's effect is negated) and THEN choose not to pay for Imperial Order, so Imperial Order is destroyed; you then enter your Main Phase 1 without having to discard for Mirage of Nightmare.
+*   If Player A controls Mirage of Nightmare, and Player B controls Imperial Order, and it is Player B's Standby Phase, Player B has priority and may choose to resolve an effect first. If Player B passes priority, then it shifts to Player A and Player A may choose to resolve an effect. If Player A declines priority, it shifts back to Player B and Player B MUST resolve an effect. So Player B must choose whether or not to pay for Imperial Order, and if Player B does not pay for Imperial Order and it is destroyed, Player A can draw cards for Mirage of Nightmare.
