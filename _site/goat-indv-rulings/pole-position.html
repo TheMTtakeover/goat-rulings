@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width initial-scale=1" />
+    <!-- Bootstrap -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4"
+      crossorigin="anonymous"
+    ></script>
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+
+    <!-- Local style sheet -->
+    <link rel="stylesheet" href="../css/master.css" />
+
+    <title>retroRulings</title>
+  </head>
+  <body>
+  <!-- Navbar -->
+    <nav class="navbar navbar-custom sticky-top navbar-expand-md navbar-dark">
+      <div class="container mx-auto max-width-1100">
+        <a class="navbar-brand btn" href="../index.html"><span class= "brand">retroRulings</span></a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#navbarToggler"
+          aria-controls="navbarTogglerDemo02"
+          aria-expanded="false"
+          aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarToggler">
+          <ul class="navbar-nav ms-auto justify-content-end">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle btn" href="#" role="button" data-bs-toggle="dropdown">Individual Card Rulings</a>
+              <ul class="dropdown-menu bg-dark">
+                <li><a class="dropdown-item link-light" href="../goat-indv-rulings.html">Goat</a></li>
+                <li><a class="dropdown-item link-light" href="../fw-indv-rulings.html">Ruler - Vegas</a></li>
+              </ul>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle btn" href="#" role="button" data-bs-toggle="dropdown">All Rulings</a>
+              <ul class="dropdown-menu bg-dark">
+                <li><a class="dropdown-item link-light btn" href="../goat-all-rulings.html">Goat</a></li>
+                <li><a class="dropdown-item link-light btn" href="../fw-all-rulings.html">Ruler - Vegas</a></li>
+              </ul>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link btn" href="../downloads.html">Downloads</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link btn" href="../faq.html">FAQ</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link btn" href="https://github.com/TheMTtakeover/retro-rulings" target="_blank"
+                ><span class="fa-brands fa-github fa-lg"></span
+              ></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="container mx-auto max-width-1100">
+     <a class="returntolist" href="../goat-indv-rulings.html"><span><< Return to list</span></a> 
+    
+    <h4 id="pole-position">POLE POSITION</h4>
+
+<p>Individual Card FAQs:</p>
+
+<ul>
+  <li>The second effect of “Pole Position” does not begin a chain. When “Pole Position” is removed from the field, the effect is applied immediately and the monster is destroyed.</li>
+  <li>If “Pole Position” is active, and your opponent controls “Blue-Eyes White Dragon” and “Skull Servant”, and you activate “Smashing Ground”, “Blue-Eyes White Dragon” is unaffected by Spell Cards, so the effect of “Smashing Ground” disappears.</li>
+  <li>If you control “Dark Magician” and your opponent controls “Blue-Eyes White Dragon”, and you activate “Flint” targeting “Blue-Eyes White Dragon”, and your opponent chains “Pole Position”, then “Flint” is equipped meaninglessly to “Blue-Eyes White Dragon”. If “Blue-Eyes White Dragon” is destroyed, “Flint” can be equipped to “Dark Magician” meaninglessly if you choose (even if other monsters are on the field).</li>
+  <li>If “Level Limit - Area B” and “Pole Position” are on the field, the highest ATK monster is unaffected by “Level Limit - Area B”. If it attacks, and during damage calculation “Mask of Weakness” is activated to reduce its ATK so that it is no longer the highest ATK monster on the field, the effect of “Level Limit - Area B” is applied. Also, the attack stops. Do not perform damage calculation.</li>
+  <li>
+    <p>You cannot choose to Summon a monster, Set a monster, or Set or activate a Spell or Trap Card, or card effect, if it would cause an infinite loop. If you do this by mistake, just rewind the game to before the Summon/Set/activation occurred.</p>
+  </li>
+  <li>EXAMPLE #1: I have “Pole Position”, “Luminous Spark” (+500 to LIGHT), and “Gemini Elf” (1900 ATK / EARTH) face-up on the field. “Gemini Elf” is the monster on the field with the highest ATK, so it is unaffected by Spell Cards. If the opponent Summons “X-Head Cannon” (1800 ATK / LIGHT), “Luminous Spark” will raise the ATK of “X-Head Cannon” to 2300, making it the highest ATK monster on the field, so it’s unaffected by Spell Cards, so it drops to 1800 ATK, then increases to 2300, then drops to 1800, etc. This would create an infinite loop. Therefore, the opponent cannot Summon “X-Head Cannon”.</li>
+  <li>EXAMPLE #2: The opponent has “Blue-Eyes White Dragon” (3000 ATK) and “Pole Position” face-up on the field. I have “Gemini Elf” (1900 ATK), and an “Opticlops” (1800 ATK) equipped with “Axe of Despair”(+1000 ATK; 2800 total) face-up on the field, and a Set “Ring of Destruction”. If I activate “Ring of Destruction” to destroy “Blue-Eyes White Dragon”, then “Opticlops” will be the highest ATK monster on the field, and cause an infinite loop (it is the highest, it isn’t, it is, it isn’t, etc.). Therefore, I cannot target “Blue-Eyes White Dragon” with “Ring of Destruction”.</li>
+  <li>EXAMPLE #3: The opponent has a face-down “Pole Position”. I have “Opticlops” (1800 ATK) and “Gemini Elf” (1900 ATK) face-up on the field. I activate “Axe of Despair” (+1000 ATK) and try to equip my “Opticlops” (1800 ATK). The opponent cannot chain “Pole Position”, since that would cause an infinite loop. “Pole Position” is an illegal activation. Put it back face-down.</li>
+  <li>EXAMPLE #4: I have “Pole Position”, “Blade Knight” (1600 ATK / LIGHT), and “Luminous Spark” (+500 ATK to LIGHT) face-up on the field and 2 cards in my hand. The opponent has “Giant Orc” (2200 ATK / EARTH) face-up on the field, which is the highest-ATK monster on the field. If I Set 1 of the 2 cards in my hand, “Blade Knight” gains +400 ATK with its effect, becomes the highest-ATK monster, and because of “Luminous Spark” an infinite loop is created. So I am not allowed to Set a card.</li>
+  <li>If an infinite loop is caused because of game mechanics and not by a player’s voluntary card play, “Pole Position” will be destroyed. When “Pole Position” is destroyed in this way, no monster on the field is destroyed by the effect of “Pole Position”.</li>
+  <li>EXAMPLE #5: I have “Pole Position” and “Opticlops” (1800 ATK) face-up on the field. The opponent has a “Muka Muka” equipped with “Axe of Despair” face-up on the field with no cards in his hand. At the start of the opponent’s turn, he draws a card, making “Muka Muka”s ATK 1900. An infinite loop is created by something that could not be avoided, so “Pole Position” is destroyed.</li>
+  <li>EXAMPLE #6: The opponent has “Blade Knight” (1600 ATK) equipped with “Butterfly Dagger - Elma” (+300 ATK; 1900 ATK total) and 2 cards in hand, along with “Marauding Captain” (1200 ATK). The turn player has “Robbin’ Goblin”, “Pole Position”, and “Giant Orc” (2200 ATK). The turn player attacks “Marauding Captain” with “Giant Orc”, inflicting 1000 points of damage. The opponent has to discard a card because of “Robbin’ Goblin” and an infinite loop is created because “Blade Knight” now fluctuates between 2300 and 2000 ATK (either above or below “Giant Orc”, making it the strongest monster on the field… or not). Therefore, “Pole Position” is destroyed.</li>
+  <li>EXAMPLE #7: I have “Pole Position”, “Banner of Courage”, and “Opticlops” face-up on the field. The opponent has “Gemini Elf” face-up on the field. When I enter my Battle Phase, an infinite loop is created as “Opticlops” fluctuates between 1800 and 2000 ATK. So “Pole Position” is destroyed.</li>
+  <li>EXAMPLE #8: I have “Pole Position”, “Gemini Elf” (1900 ATK / EARTH) and “Mystic Plasma Zone” (+500 ATK to DARK) face-up on the field, and an “Opticlops” (1800 ATK / DARK) in face-down Defense Position. The opponent attacks my face-down “Opticlops” with “Mokey Mokey”. When we flip “Opticlops” face-up in the Damage Step, an infinite loop is created as “Opticlops” fluctuates between 1800 and 2300 ATK (either above or below “Gemini Elf”, making it the strongest monster on the field, or not). Therefore, “Pole Position” is destroyed.</li>
+</ul>
+
+    
+    </div>
+  </body>
+</html>
