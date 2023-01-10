@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Contact/FAQ
 
 **Q: How can I add, update, remove, or request a ruling?**  
