@@ -5653,6 +5653,8 @@ Individual Card FAQs:
 GoatRulings.com Rulings:
 
 *   If "Gyaku-Gire Panda" is summoned while "King Tiger Wanghu” is on the field, "Gyaku-Gire Panda" will NOT be destroyed if the opponent has enough monsters (2 or more in this case) to raise the attack of "Gyaku-Gire Panda” above the 1400 attack threshold.
+*   If "Tsukuyomi" is summoned while "King Tiger Wanghu" is on the field, "Tsukuyomi" and "King Tiger Wanghu" will trigger at the same time. Since the turn player is summoning Tsukuyomi, it will be CL1 and "King Tiger Wanghu" will be CL2. This will result in "King Tiger Wanghu" destroying "Tsukuyomi" and then the effect of "Tsukuyomi" will resolve flipping the target face down.
+    *    If the player who is summoning "Tsukuyomi" is the same player who controls "King Tiger Wanghu", that player can choose the order the effects are activated in since they are both mandatory effects that happen at the same time. The player can choose to have "King Tiger Wanghu" be CL1 and "Tsukuyomi" be CL2. This will result in "Tsukuyomi" resolving first and flipping "King Tiger Wanghu" face down. In this example, "Tsukuyomi" would live because "King Tiger Wanghu" must be face up on the field for its effect to resolve.	
 
 #### KIRYU
 
