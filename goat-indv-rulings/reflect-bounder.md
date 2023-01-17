@@ -14,7 +14,7 @@ Individual Card FAQs:
 *   When your opponent's "White Magical Hat" with "Axe of Despair" attacks your "Reflect Bounder", "Reflect Bounder" inflicts its effect damage, damage calculation is performed, and "White Magical Hat"'s effect is activated.
 *   When "Reflect Bounder" is attacked by "Dark Ruler Ha Des", "Reflect Bounder" inflicts its effect damage, damage calculation is applied, "Reflect Bounder" is determined to be destroyed as a result of battle, "Dark Ruler Ha Des" negates "Reflect Bounder"'s effect, and "Reflect Bounder" does not destroy itself with its own effect, however it was still destroyed as a result of battle.
 *   "Reflect Bounder"'s effect does not target.
-*   If "Reflect Bounder" is attacked by "D. D. Warrior Lady", and the effect of "Reflect Bounder" is activated, "Reflect Bounder" inflicts damage, damage calculation is performed, and "Reflect Bounder" destroys itself with its own effect and is sent to the Graveyard, so even if "D. D. Warrior Lady" activates her effect, "Reflect Bounder" is not removed from play because it is already in the Graveyard.
+*   If "Reflect Bounder" is attacked by "D.D. Warrior Lady", and the effect of "Reflect Bounder" is activated, "Reflect Bounder" inflicts damage, damage calculation is performed, and "Reflect Bounder" destroys itself with its own effect and is sent to the Graveyard, so even if "D.D. Warrior Lady" activates her effect, "Reflect Bounder" is not removed from play because it is already in the Graveyard.
 
 Netrep Q&As:
 

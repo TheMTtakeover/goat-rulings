@@ -2,7 +2,7 @@
 layout: goat-indv-card
 ---
 
-#### D. D. BORDERLINE
+#### D.D. BORDERLINE
 
 Netrep Rulings:
 

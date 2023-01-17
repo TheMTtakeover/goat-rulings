@@ -2,14 +2,16 @@
 layout: goat-indv-card
 ---
 
-#### D. D. WARRIOR LADY
+#### D.D. WARRIOR LADY
 
 Individual Card FAQs:
 
-*   You don't have to activate "D. D. Warrior Lady"'s effect if you don't want to.
-*   When your “D. D. Warrior Lady” attacks your opponent's “Fiber Jar”, if you activate her effect then “Fiber Jar” is Step 1 of the chain, because it is mandatory, and “D. D. Warrior Lady” is Step 2 of the chain because it is an optional effect. "D. D. Warrior Lady” removes from play both monsters, and then resolve the effect of “Fiber Jar”. “D. D. Warrior Lady” and “Fiber Jar” are not shuffled into the Deck.
-*   When your “D. D. Warrior Lady” attacks “Wall of Illusion”, if you activate her effect then “Wall of Illusion” is Step 1 of the chain, because it is mandatory, and “D. D. Warrior Lady” is Step 2 of the chain because it is an optional effect. The effect of “D. D. Warrior Lady” removes from play both monsters, then the effect of “Wall of Illusion” disappears, since the attacking monster is no longer on the field.
-*   If your "D. D. Warrior Lady" attacks your opponent's "D. D. Warrior Lady", your "D. D. Warrior Lady" is Step 1 of the chain and your opponent's is Step 2, and when Step 2 resolves, both "D. D. Warrior Lady" cards are removed from play and your "D. D. Warrior Lady"'s effect disappears.
+*   You don't have to activate "D.D. Warrior Lady"'s effect if you don't want to.
+*   When your “D.D. Warrior Lady” attacks your opponent's “Fiber Jar”, if you activate her effect then “Fiber Jar” is Step 1 of the chain, because it is mandatory, and “D.D. Warrior Lady” is Step 2 of the chain because it is an optional effect. "D.D. Warrior Lady” removes from play both monsters, and then resolve the effect of “Fiber Jar”. “D.D. Warrior Lady” and “Fiber Jar” are not shuffled into the Deck.
+*   When your “D.D. Warrior Lady” attacks “Wall of Illusion”, if you activate her effect then “Wall of Illusion” is Step 1 of the chain, because it is mandatory, and “D.D. Warrior Lady” is Step 2 of the chain because it is an optional effect. The effect of “D.D. Warrior Lady” removes from play both monsters, then the effect of “Wall of Illusion” disappears, since the attacking monster is no longer on the field. 
+*   If your "D.D. Warrior Lady" attacks your opponent's "D.D. Warrior Lady", your "D.D. Warrior Lady" is Step 1 of the chain and your opponent's is Step 2, and when Step 2 resolves, both "D.D. Warrior Lady" cards are removed from play and your "D.D. Warrior Lady"'s effect disappears.
+    * This ruling would also apply to attacking "Kelbek"
+*   If your "D.D. Warrior Lady" attacks your opponent's "D.D. Warrior Lady", your "D.D. Warrior Lady" is Step 1 of the chain and your opponent's is Step 2, and when Step 2 resolves, both "D.D. Warrior Lady" cards are removed from play and your "D.D. Warrior Lady"'s effect disappears.
 
 Netrep Rulings:
 
