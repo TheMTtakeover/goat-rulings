@@ -1459,7 +1459,7 @@ Netrep Rulings:
 Individual Card FAQs:
 
 *   If you activate "Burst Stream of Destruction", and the "Blue-Eyes White Dragon" is removed from the field with "Interdimensional Matter Transporter" or "Compulsory Evacuation Device", or flipped face-down with "Book of Moon", or destroyed by "Ring of Destruction", "Burst Stream of Destruction"'s effect still resolves.
-*   You can activate "Burst Stream of Destruction" when you cannot have a Battle Phase because of "Frozen Soul", "D. D. Border Line", "Soul Exchange", or "Great Long Nose".
+*   You can activate "Burst Stream of Destruction" when you cannot have a Battle Phase because of "Frozen Soul", "D.D. Border Line", "Soul Exchange", or "Great Long Nose".
 *   It is an effect of "Burst Stream of Destruction" that "Blue-Eyes White Dragon" cannot attack, so if "Non-Spellcasting Area" is on the field, "Blue-Eyes White Dragon" CAN attack. If "Imperial Order" is activated later, "Burst Stream of Destruction"'s effect is negated and "Blue-Eyes White Dragon" CAN attack.
 *   If "Burst Stream of Destruction"'s activation is negated by "Magic Jammer", then "Blue-Eyes White Dragon" can attack.
 *   NO copies of "Blue-Eyes White Dragon" can attack the turn that "Burst Stream of Destruction"'s effect is applied, even if they are Summoned after "Burst Stream of Destruction" is played.
@@ -1789,7 +1789,7 @@ Individual Card FAQs:
 *   When "Penguin Soldier" targets 2 monsters, including "Chaos Command Magician", this is an effect targets, but not one that select "1 target". So "Chaos Command Magician" will not negate the effect of "Penguin Soldier". However, if "Penguin Soldier" only targets "Chaos Command Magician", then it is an effect that selects "1 target" so "Chaos Command Magician" WILL negate the effect of "Penguin Soldier".
 *   Vs. "Dark Cat With White Tail", that effect selects 3 targets so "Chaos Command Magician" will not negate "Dark Cat With White Tail"'s effect.
 *   If "Chaos Command Magician" is targeted by "Dark Necrofear", that effect selects 1 target so the effect of "Dark Necrofear" is negated and it is not equipped to "Chaos Command Magician".
-*   When "Chaos Command Magician" battles "D. D. Warrior Lady", her effect is NOT negated because it does not target.
+*   When "Chaos Command Magician" battles "D.D. Warrior Lady", her effect is NOT negated because it does not target.
 *   You can activate the effect of "Metallizing Parasite - Lunatite" and target "Chaos Command Magician", but "Chaos Command Magician" will negate the effect and "Metallizing Parasite - Lunatite" will remain on the field as a monster.
 
 #### CHAOS EMPEROR DRAGON - ENVOY OF THE END
@@ -2335,7 +2335,7 @@ Netrep Rulings:
 *   The effect of “Cyclon Laser” applies only to the equipped “Gradius.”
 *   The effect of “Cyclon Laser” does not apply to any “Gradius’ Option” that target the equipped “Gradius.”
 
-#### D. D. BORDERLINE
+#### D.D. BORDERLINE
 
 Netrep Rulings:
 
@@ -2347,73 +2347,57 @@ Netrep Rulings:
 
 *   “D.D. Crazy Beast” must remain face-up on the field to remove a monster from the field due to an attack. Monsters that destroy “D.D. Crazy Beast” or return “D.D. Crazy Beast” to the hand as a result of being attacked or destroyed will not be removed from play as a result of “D.D. Crazy Beast.”
 
-#### D. D. DESIGNATOR
+#### D.D. DESIGNATOR
 
 Individual Card FAQs:
 
-*   You can't activate "D. D. Designator" if you have no cards in your hand, or if "D. D. Designator" is the only card in your hand.
+*   You can't activate "D.D. Designator" if you have no cards in your hand, or if "D.D. Designator" is the only card in your hand.
 *   If you have your opponent's card in your hand because of "Exchange", you can remove it from play if you name a card your opponent doesn't have in his hand.
-*   You declare the card name when you activate "D. D. Designator".
-*   If your opponent has no cards in his hand when "D. D. Designator" resolves, the effect of "D. D. Designator" is negated.
-*   You can't activate "D. D. Designator" when your opponent has no cards in his hand.
-*   If you activate "D. D. Designator" and your opponent has 2 copies of the same card in hand, you (the player who activated "D. D. Designator") select which of the 2 cards is removed from play (this can be important if your opponent holds your card because of "Exchange").
+*   You declare the card name when you activate "D.D. Designator".
+*   If your opponent has no cards in his hand when "D.D. Designator" resolves, the effect of "D.D. Designator" is negated.
+*   You can't activate "D.D. Designator" when your opponent has no cards in his hand.
+*   If you activate "D.D. Designator" and your opponent has 2 copies of the same card in hand, you (the player who activated "D.D. Designator") select which of the 2 cards is removed from play (this can be important if your opponent holds your card because of "Exchange").
 
 Netrep Rulings:
 
-*   You MUST have another card in your hand besides “D. D. Designator” in order to activate this card.
-*   If you no longer have an additional card in your hand when “D. D. Designator” resolves (for example, if you activate “Type Zero Magic Crusher’s” effect in a chain), then “D. D. Designator’s” effect disappears.
+*   You MUST have another card in your hand besides “D.D. Designator” in order to activate this card.
+*   If you no longer have an additional card in your hand when “D.D. Designator” resolves (for example, if you activate “Type Zero Magic Crusher’s” effect in a chain), then “D.D. Designator’s” effect disappears.
 *   If “Reload” is chained to the activation of “D.D. Designator,” “Reload” must resolve first before the hand is revealed for the effect of “D.D. Designator.”
 
-#### D. D. DYNAMITE
+#### D.D. DYNAMITE
 
 Individual Card FAQs:
 
-*   Count the number of cards removed from play when “D. D. Dynamite” resolves, not when it is activated.
+*   Count the number of cards removed from play when “D.D. Dynamite” resolves, not when it is activated.
 
-#### D. D. SCOUT PLANE
-
-Individual Card FAQs:
-
-*   It is the OWNER of "D. D. Scout Plane" that Special Summons it. Even if your opponent controls your "D. D. Scout Plane", if it is removed from play, you get to Special Summon it.
-*   If you don't have a vacant Monster Card Zone when "D. D. Scout Plane" would be Special Summoned, "D. D. Scout Plane" is destroyed and sent to the Graveyard.
-*   "D. D. Scout Plane"'s effect activates whether it is removed from your hand, Deck, Graveyard, or the field.
-*   If "D. D. Scout Plane" is removed from play and is face-down while out of play, such as with "Lightforce Sword" or "Different Dimension Capsule", "D. D. Scout Plane"'s effect does not activate. But if "D. D. Scout Plane" was face-down on the field, and was removed by "Nobleman of Crossout", it is placed face-up while out of play and its effect does activate.
-*   If "D. D. Scout Plane" is face-down on the field while "Banisher of the Light" is in play, and "D. D. Scout Plane" is destroyed by "Raigeki Break", it is removed from play and its effect activates because it is placed face-up out of play.
-*   If "D. D. Scout Plane" is destroyed by "Dark Ruler Ha Des" and then removed from play to Special Summon "Chaos Emperor Dragon - Envoy of the End", "D. D. Scout Plane"'s effect activates and it will be Special Summoned.
-*   If "D. D. Scout Plane" is destroyed by "Lesser Fiend", "D. D. Scout Plane"'s effect activates and it is Special Summoned even if "Dark Ruler Ha Des" was also in play when it was destroyed.
-*   If "D. D. Scout Plane" is removed during an End Phase, it is Special Summoned with its effect during that same End Phase.
-*   "D. D. Scout Plane"'s effect can only activate once during the same End Phase, so if a combo of "Banisher of the Light" and "King Tiger Wanghu" is set up, "D. D. Scout Plane" will only be Special Summoned once.
-*   If "D. D. Scout Plane" is removed from play and then returned to the Graveyard with "Miracle Dig" the same turn, its effect is reset and it remains in the Graveyard and is not Special Summoned.
-*   If "Prohibition" was used and "D. D. Scout Plane" is prohibited, "D. D. Scout Plane" cannot be Special Summoned and remains removed from play.
-*   If "D. D. Scout Plane" is removed from play with "Different Dimension Gate", "D. D. Scout Plane"'s effect activates and "D. D. Scout Plane" is Special Summoned. If "Different Dimension Gate" is later destroyed, the other removed monster is returned to the field at that time.
-
-#### D. D. WARRIOR LADY
+#### D.D. SCOUT PLANE
 
 Individual Card FAQs:
 
-*   You don't have to activate "D. D. Warrior Lady"'s effect if you don't want to.
-*   When your “D. D. Warrior Lady” attacks your opponent's “Fiber Jar”, if you activate her effect then “Fiber Jar” is Step 1 of the chain, because it is mandatory, and “D. D. Warrior Lady” is Step 2 of the chain because it is an optional effect. "D. D. Warrior Lady” removes from play both monsters, and then resolve the effect of “Fiber Jar”. “D. D. Warrior Lady” and “Fiber Jar” are not shuffled into the Deck.
-*   When your “D. D. Warrior Lady” attacks “Wall of Illusion”, if you activate her effect then “Wall of Illusion” is Step 1 of the chain, because it is mandatory, and “D. D. Warrior Lady” is Step 2 of the chain because it is an optional effect. The effect of “D. D. Warrior Lady” removes from play both monsters, then the effect of “Wall of Illusion” disappears, since the attacking monster is no longer on the field.
-*   If your "D. D. Warrior Lady" attacks your opponent's "D. D. Warrior Lady", your "D. D. Warrior Lady" is Step 1 of the chain and your opponent's is Step 2, and when Step 2 resolves, both "D. D. Warrior Lady" cards are removed from play and your "D. D. Warrior Lady"'s effect disappears.
-
-Netrep Rulings:
-
-*   Any time “D.D. Warrior Lady” is involved in battle, the controller of “D.D. Warrior Lady” may use its effect, regardless of if it inflicts damage.
-*   If “D.D. Warrior Lady” is destroyed by “Dark Ruler Ha Des”, “Dark Balter the Terrible,” or a monster equipped with “Wicked Breaking Flamberge – Baou,” “D.D. Warrior Lady” will not receive its effect.
-*   “D.D. Warrior Lady’s” effect is not targeting.
-*   If “Skill Drain” is active when “D.D. Warrior Lady’s” effect resolves, the effect of “D.D. Warrior Lady” is negated.
+*   It is the OWNER of "D.D. Scout Plane" that Special Summons it. Even if your opponent controls your "D.D. Scout Plane", if it is removed from play, you get to Special Summon it.
+*   If you don't have a vacant Monster Card Zone when "D.D. Scout Plane" would be Special Summoned, "D.D. Scout Plane" is destroyed and sent to the Graveyard.
+*   "D.D. Scout Plane"'s effect activates whether it is removed from your hand, Deck, Graveyard, or the field.
+*   If "D.D. Scout Plane" is removed from play and is face-down while out of play, such as with "Lightforce Sword" or "Different Dimension Capsule", "D.D. Scout Plane"'s effect does not activate. But if "D.D. Scout Plane" was face-down on the field, and was removed by "Nobleman of Crossout", it is placed face-up while out of play and its effect does activate.
+*   If "D.D. Scout Plane" is face-down on the field while "Banisher of the Light" is in play, and "D.D. Scout Plane" is destroyed by "Raigeki Break", it is removed from play and its effect activates because it is placed face-up out of play.
+*   If "D.D. Scout Plane" is destroyed by "Dark Ruler Ha Des" and then removed from play to Special Summon "Chaos Emperor Dragon - Envoy of the End", "D.D. Scout Plane"'s effect activates and it will be Special Summoned.
+*   If "D.D. Scout Plane" is destroyed by "Lesser Fiend", "D.D. Scout Plane"'s effect activates and it is Special Summoned even if "Dark Ruler Ha Des" was also in play when it was destroyed.
+*   If "D.D. Scout Plane" is removed during an End Phase, it is Special Summoned with its effect during that same End Phase.
+*   "D.D. Scout Plane"'s effect can only activate once during the same End Phase, so if a combo of "Banisher of the Light" and "King Tiger Wanghu" is set up, "D.D. Scout Plane" will only be Special Summoned once.
+*   If "D.D. Scout Plane" is removed from play and then returned to the Graveyard with "Miracle Dig" the same turn, its effect is reset and it remains in the Graveyard and is not Special Summoned.
+*   If "Prohibition" was used and "D.D. Scout Plane" is prohibited, "D.D. Scout Plane" cannot be Special Summoned and remains removed from play.
+*   If "D.D. Scout Plane" is removed from play with "Different Dimension Gate", "D.D. Scout Plane"'s effect activates and "D.D. Scout Plane" is Special Summoned. If "Different Dimension Gate" is later destroyed, the other removed monster is returned to the field at that time.
 
 #### D.D. SURVIVOR
 
 Individual Card FAQs:
 
-*   The effect of “D. D. Survivor” activates during the End Phase if “D. D. Survivor” is currently removed from play. It does NOT activate at the moment he is removed from play. You can chain to this effect.
-*   You can activate “Divine Wrath” against the effect of “D. D. Survivor” when it activates during the End Phase. In this case, “D. D. Survivor” is not actually Special Summoned. “D. D. Survivor” remains removed from play (its effect doesn’t activate again).
-*   If “Skill Drain” is active when “D. D. Survivor” is removed from play, it is still Special Summoned because its effect activates during the End Phase while it is removed from play.
-*   If you have no open Monster Card Zones during your End Phase, and “D. D. Survivor” is currently removed from play, he is not Special Summoned.
-*   If “D. D. Survivor” is removed from play, then placed in the Graveyard with “Miracle Dig”, he is not Special Summoned.
-*   If “D. D. Survivor” is removed from play with “Dimensionhole”, and “D. D. Survivor” is Special Summoned by its effect, the effect of “Dimensionhole” ends (freeing up the “occupied” Monster Card Zone) even though the effect of “Dimensionhole” did not return “D. D. Survivor” to the field.
-*   If “D. D. Survivor” or “D. D. Scout Plane” is removed from play with “Interdimensional Matter Transporter”, you can choose whether it is Special Summoned (with its effect) or returned to the field (with “Interdimensional Matter Transporter”).
+*   The effect of “D.D. Survivor” activates during the End Phase if “D.D. Survivor” is currently removed from play. It does NOT activate at the moment he is removed from play. You can chain to this effect.
+*   You can activate “Divine Wrath” against the effect of “D.D. Survivor” when it activates during the End Phase. In this case, “D.D. Survivor” is not actually Special Summoned. “D.D. Survivor” remains removed from play (its effect doesn’t activate again).
+*   If “Skill Drain” is active when “D.D. Survivor” is removed from play, it is still Special Summoned because its effect activates during the End Phase while it is removed from play.
+*   If you have no open Monster Card Zones during your End Phase, and “D.D. Survivor” is currently removed from play, he is not Special Summoned.
+*   If “D.D. Survivor” is removed from play, then placed in the Graveyard with “Miracle Dig”, he is not Special Summoned.
+*   If “D.D. Survivor” is removed from play with “Dimensionhole”, and “D.D. Survivor” is Special Summoned by its effect, the effect of “Dimensionhole” ends (freeing up the “occupied” Monster Card Zone) even though the effect of “Dimensionhole” did not return “D.D. Survivor” to the field.
+*   If “D.D. Survivor” or “D.D. Scout Plane” is removed from play with “Interdimensional Matter Transporter”, you can choose whether it is Special Summoned (with its effect) or returned to the field (with “Interdimensional Matter Transporter”).
 
 #### D.D. TRAP HOLE
 
@@ -2427,6 +2411,23 @@ Individual Card FAQs:
 *   You can select a Token as your monster to destroy and remove from play from your side of the field for “D.D. Trap Hole”.
 *   “D.D. Trap Hole” is an effect that targets. It targets 1 of your monsters and your opponent’s monster that was just Set.
 *   If you select your monster equipped with “Heavy Mech Support Platform” for your monster to destroy with “D.D. Trap Hole”, then “Heavy Mech Support Platform” is destroyed instead and is sent to the Graveyard. Your opponent’s monster is destroyed and removed from play.
+
+#### D.D. WARRIOR LADY
+
+Individual Card FAQs:
+
+*   You don't have to activate "D.D. Warrior Lady"'s effect if you don't want to.
+*   When your “D.D. Warrior Lady” attacks your opponent's “Fiber Jar”, if you activate her effect then “Fiber Jar” is Step 1 of the chain, because it is mandatory, and “D.D. Warrior Lady” is Step 2 of the chain because it is an optional effect. "D.D. Warrior Lady” removes from play both monsters, and then resolve the effect of “Fiber Jar”. “D.D. Warrior Lady” and “Fiber Jar” are not shuffled into the Deck.
+*   If your "D.D. Warrior Lady" attacks your opponent's "D.D. Warrior Lady", your "D.D. Warrior Lady" is Step 1 of the chain and your opponent's is Step 2, and when Step 2 resolves, both "D.D. Warrior Lady" cards are removed from play and your "D.D. Warrior Lady"'s effect disappears.
+    * This ruling would also apply to attacking "Kelbek"
+*   If your "D.D. Warrior Lady" attacks your opponent's "D.D. Warrior Lady", your "D.D. Warrior Lady" is Step 1 of the chain and your opponent's is Step 2, and when Step 2 resolves, both "D.D. Warrior Lady" cards are removed from play and your "D.D. Warrior Lady"'s effect disappears.
+
+Netrep Rulings:
+
+*   Any time “D.D. Warrior Lady” is involved in battle, the controller of “D.D. Warrior Lady” may use its effect, regardless of if it inflicts damage.
+*   If “D.D. Warrior Lady” is destroyed by “Dark Ruler Ha Des”, “Dark Balter the Terrible,” or a monster equipped with “Wicked Breaking Flamberge – Baou,” “D.D. Warrior Lady” will not receive its effect.
+*   “D.D. Warrior Lady’s” effect is not targeting.
+*   If “Skill Drain” is active when “D.D. Warrior Lady’s” effect resolves, the effect of “D.D. Warrior Lady” is negated.
 
 #### D.D.M. - DIFFERENT DIMENSION MASTER
 
@@ -3130,7 +3131,7 @@ Individual Card FAQs:
 *   When a Level 7 Spellcaster-Type monster selected with "Diffusion Wave-Motion" attacks "Amazoness Fighter" or "Amazoness Swordswoman", their effects are still applied normally at damage calculation.
 *   You can activate "Injection Fairy Lily"'s effect when she is attacked by a Level 7 Spellcaster-Type monster selected with "Diffusion Wave-Motion" because her effect is applied during damage calculation.
 *   When a Level 7 Spellcaster-Type monster selected with "Diffusion Wave-Motion" attacks "Spirit Reaper" or "Kisetai", it cannot destroy "Spirit Reaper" or "Kisetai" (so "Kisetai"'s effect is not negated).
-*   A Level 7 Spellcaster-Type monster selected with "Diffusion Wave-Motion" will negate: the Flip Effects of a monster it destroys as a result of battle, or the effects of "Giant Rat", "Sangan", "Dark Necrofear", "Sinister Serpent", "D. D. Warrior Lady", "Wall of Illusion", "Helpoemer", "Marie the Fallen One", etc.
+*   A Level 7 Spellcaster-Type monster selected with "Diffusion Wave-Motion" will negate: the Flip Effects of a monster it destroys as a result of battle, or the effects of "Giant Rat", "Sangan", "Dark Necrofear", "Sinister Serpent", "D.D. Warrior Lady", "Wall of Illusion", "Helpoemer", "Marie the Fallen One", etc.
 
 Netrep Rulings:
 
@@ -3242,7 +3243,7 @@ Individual Card FAQs:
 *   Another example: if "D.D. Warrior Lady" attacks a face-down "Morphing Jar", and activates her effect to remove both cards from play, "D.D. Warrior Lady" is Step 2 because she has an optional effect, and "Morphing Jar" is Step 1 because its effect is mandatory. So "Divine Wrath" can be chained to the effect of "D.D. Warrior Lady" to negate its effect, but not to the effect of "Morphing Jar" to negate its effect.
 *   You can chain “Divine Wrath” to the effect of “The Creator” (Ignition Effect), “Fox Fire” when it is Special Summoned (Trigger Effect), “Strike Ninja” (Multi-Trigger Effect), and “Homunculus the Alchemic Being” (Ignition Effect).
 *   You can activate “Divine Wrath” in a chain to a Trigger Effect that activates when the Effect Monster is Summoned such as “Breaker the Magical Warrior”, “Dark Magician of Chaos”, or “Marauding Captain”. The opponent must declare the activation of “Marauding Captain”’s effect before “Divine Wrath” can be activated. In this case, the monster that would have been Special Summoned remains in the opponent’s hand.
-*   You can activate “Divine Wrath” during the Damage Step because it is a Counter-Trap, so you may activate it to negate the effect of “D. D. Warrior Lady”, “Reflect Bounder”, “Injection Fairy Lily”, “D. D. Crazy Beast”, "Dark Paladin", or “Mystical Knight of Jackal”.
+*   You can activate “Divine Wrath” during the Damage Step because it is a Counter-Trap, so you may activate it to negate the effect of “D.D. Warrior Lady”, “Reflect Bounder”, “Injection Fairy Lily”, “D.D. Crazy Beast”, "Dark Paladin", or “Mystical Knight of Jackal”.
 *   If you activate "Divine Wrath" during the Damage Step to destroy the attacking monster or the monster being attacked, the monster is destroyed. No replay occurs because a replay can only happen during the Battle Step. If damage calculation has not been performed yet, it is not performed.
 *   You can activate “Divine Wrath” against “Sasuke Samurai” or “Mystic Swordsman LV2” when they attack a face-down Defense Position monster.
 *   You can activate “Divine Wrath” to negate either effect of “Don Zaloog” and to negate the effect of “Airknight Parshath” that allows its controller to draw a card.
@@ -4667,7 +4668,7 @@ Individual Card FAQs:
 *   "Grave Protector"'s effect is not applied to itself when it is destroyed as a result of battle.
 *   Effects like "Mystic Tomato", etc., are not activated while "Grave Protector" is face-up on the field.
 *   A monster destroyed by "Dark Magician of Chaos" or "Lesser Fiend" is returned to the Deck instead of being removed from play.
-*   A monster that battles with "D. D. Warrior Lady" is still removed from play even if "Grave Protector" is on the field (if "D. D. Warrior Lady"'s effect is activated).
+*   A monster that battles with "D.D. Warrior Lady" is still removed from play even if "Grave Protector" is on the field (if "D.D. Warrior Lady"'s effect is activated).
 *   If "Banisher of the Light" and "Grave Protector" are both active, destroyed monsters are removed from play.
 *   When there is a face-up "Grave Protector" on the field and a face-down "Desertapir" is attacked, and "Desertapir’s" Flip Effect flips "Grave Protector" face-down, the Desertapir is sent to the Graveyard at the end of the Damage Step instead of to the Deck.
 *   If "Grave Protector" is on the field, the effect of "Slate Warrior" that reduces the ATK and DEF of the monster that destroys "Slate Warrior" is still applied, even though "Slate Warrior" is shuffled back into the Deck instead of being sent to the Graveyard. The timing of "Slate Warrior’s" effect is still at the end of the Damage Step (when monsters are normally sent to the Graveyard after battle).
@@ -6876,7 +6877,7 @@ Individual Card FAQs:
 Individual Card FAQs:
 
 *   If "Light of Intervention" is active, you cannot Normal Summon "Mystic Swordsman LV4" because it can only be Normal Summoned face-down, which "Light of Intervention" makes impossible to do.
-*   If "Mystic Swordsman LV4" attacks a face-down Defense Position monster, you destroy the monster with "Mystic Swordsman LV4"’s effect before flipping the monster face-up. Effects like "D. D. Warrior Lady" cannot activate.
+*   If "Mystic Swordsman LV4" attacks a face-down Defense Position monster, you destroy the monster with "Mystic Swordsman LV4"’s effect before flipping the monster face-up. Effects like "D.D. Warrior Lady" cannot activate.
 *   If a level monster fulfills its condition to Special Summon the next-highest level (for example, if "Armed Dragon LV5" destroys a monster as a result of battle), and the level monster is then flipped face-down, or removed from play permanently, or sent to the Graveyard and then Special Summoned from the Graveyard, then its condition is reset and it is no longer considered to have met the condition to level up to the next level.
 
 #### MYSTIC SWORDSMAN LV6
@@ -7079,7 +7080,7 @@ Individual Card FAQs:
 
 *   "Ninja Grandmaster Sasuke"’s effect activates at the beginning of the Damage Step, before the monster is flipped face-up. So if "Ninja Grandmaster Sasuke" attacks a face-down Defense Position monster, "Ninja Grandmaster Sasuke" will not destroy it with his effect because it is not flipped face-up until after "Ninja Grandmaster Sasuke"’s effect would activate.
 *   A face-up Defense Position "Spirit Reaper" will be destroyed by the effect of "Ninja Grandmaster Sasuke". "Ninja Grandmaster Sasuke"’s effect does not target. So if "Ninja Grandmaster Sasuke" attacks "Spirit Reaper", "Spirit Reaper" is destroyed by "Ninja Grandmaster Sasuke"’s effect, not by "Spirit Reaper"’s effect.
-*   If "Ninja Grandmaster Sasuke" attacks a face-up Defense Position "D. D. Warrior Lady", "D. D. Warrior Lady" is destroyed by the effect of "Ninja Grandmaster Sasuke" and "D. D. Warrior Lady"’s effect is not activated.
+*   If "Ninja Grandmaster Sasuke" attacks a face-up Defense Position "D.D. Warrior Lady", "D.D. Warrior Lady" is destroyed by the effect of "Ninja Grandmaster Sasuke" and "D.D. Warrior Lady"’s effect is not activated.
 *   If "Ninja Grandmaster Sasuke" attacks a face-up Defense Position monster, and you flip it face-down during the Battle Step with "Book of Moon", the monster is face-down at the start of the Damage Step so "Ninja Grandmaster Sasuke" will not destroy it with his effect.
 *   If "Ninja Grandmaster Sasuke" attacks a face-down Defense Position monster, and "Ceasefire" is activated during the Battle Step, the monster is face-up at the start of the Damage Step so it will be destroyed by "Ninja Grandmaster Sasuke"’s effect.
 
@@ -7866,7 +7867,7 @@ Individual Card FAQs:
 *   When your opponent's "White Magical Hat" with "Axe of Despair" attacks your "Reflect Bounder", "Reflect Bounder" inflicts its effect damage, damage calculation is performed, and "White Magical Hat"'s effect is activated.
 *   When "Reflect Bounder" is attacked by "Dark Ruler Ha Des", "Reflect Bounder" inflicts its effect damage, damage calculation is applied, "Reflect Bounder" is determined to be destroyed as a result of battle, "Dark Ruler Ha Des" negates "Reflect Bounder"'s effect, and "Reflect Bounder" does not destroy itself with its own effect, however it was still destroyed as a result of battle.
 *   "Reflect Bounder"'s effect does not target.
-*   If "Reflect Bounder" is attacked by "D. D. Warrior Lady", and the effect of "Reflect Bounder" is activated, "Reflect Bounder" inflicts damage, damage calculation is performed, and "Reflect Bounder" destroys itself with its own effect and is sent to the Graveyard, so even if "D. D. Warrior Lady" activates her effect, "Reflect Bounder" is not removed from play because it is already in the Graveyard.
+*   If "Reflect Bounder" is attacked by "D.D. Warrior Lady", and the effect of "Reflect Bounder" is activated, "Reflect Bounder" inflicts damage, damage calculation is performed, and "Reflect Bounder" destroys itself with its own effect and is sent to the Graveyard, so even if "D.D. Warrior Lady" activates her effect, "Reflect Bounder" is not removed from play because it is already in the Graveyard.
 
 Netrep Q&As:
 
@@ -8469,7 +8470,7 @@ Individual Card FAQs:
 Individual Card FAQs:
 
 *   When your "Shinato, King of a Higher Plane" destroys "Gradius' Option" or "Maju Garzett", your opponent takes no damage from "Shinato, King of a Higher Plane"'s effect.
-*   If "Shinato, King of a Higher Plane" is destroyed before monsters are sent to the Graveyard, for example if removed from play by "D. D. Warrior Lady", his effect does not activate. But if "Shinato, King of a Higher Plane" attacks "Yomi Ship", "Shinato, King of a Higher Plane" inflicts the damage from his effect even though he will be destroyed by "Yomi Ship"'s effect after "Yomi Ship" is sent to the Graveyard.
+*   If "Shinato, King of a Higher Plane" is destroyed before monsters are sent to the Graveyard, for example if removed from play by "D.D. Warrior Lady", his effect does not activate. But if "Shinato, King of a Higher Plane" attacks "Yomi Ship", "Shinato, King of a Higher Plane" inflicts the damage from his effect even though he will be destroyed by "Yomi Ship"'s effect after "Yomi Ship" is sent to the Graveyard.
 *   When "Shinato, King of a Higher Plane" destroys a Defense Position monster, your opponent can activate "Barrel Behind the Door" as a chain to "Shinato, King of a Higher Plane"'s effect.
 *   When your "Shinato, King of a Higher Plane" is equipped with "Fairy Meteor Crush" and destroys your opponent's Defense Position monster, first, during damage calculation, "Shinato, King of a Higher Plane" inflicts Battle Damage to your opponent's Life Points because of "Fairy Meteor Crush", and then, when the Defense Position monster is sent to the Graveyard, "Shinato, King of a Higher Plane"'s effect inflicts damage equal to the original ATK of the destroyed monster.
 

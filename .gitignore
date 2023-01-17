@@ -39,3 +39,7 @@ Thumbs.db
 # Jekyll Cache #
 ################
 .jekyll-cache/**
+
+#Obsidian Cache#
+################
+.obsidian/**

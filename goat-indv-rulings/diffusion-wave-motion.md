@@ -21,7 +21,7 @@ Individual Card FAQs:
 *   When a Level 7 Spellcaster-Type monster selected with "Diffusion Wave-Motion" attacks "Amazoness Fighter" or "Amazoness Swordswoman", their effects are still applied normally at damage calculation.
 *   You can activate "Injection Fairy Lily"'s effect when she is attacked by a Level 7 Spellcaster-Type monster selected with "Diffusion Wave-Motion" because her effect is applied during damage calculation.
 *   When a Level 7 Spellcaster-Type monster selected with "Diffusion Wave-Motion" attacks "Spirit Reaper" or "Kisetai", it cannot destroy "Spirit Reaper" or "Kisetai" (so "Kisetai"'s effect is not negated).
-*   A Level 7 Spellcaster-Type monster selected with "Diffusion Wave-Motion" will negate: the Flip Effects of a monster it destroys as a result of battle, or the effects of "Giant Rat", "Sangan", "Dark Necrofear", "Sinister Serpent", "D. D. Warrior Lady", "Wall of Illusion", "Helpoemer", "Marie the Fallen One", etc.
+*   A Level 7 Spellcaster-Type monster selected with "Diffusion Wave-Motion" will negate: the Flip Effects of a monster it destroys as a result of battle, or the effects of "Giant Rat", "Sangan", "Dark Necrofear", "Sinister Serpent", "D.D. Warrior Lady", "Wall of Illusion", "Helpoemer", "Marie the Fallen One", etc.
 
 Netrep Rulings:
 
