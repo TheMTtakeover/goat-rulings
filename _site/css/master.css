@@ -50,6 +50,10 @@ li {
   margin-bottom: 10px;
 }
 
+em {
+  font-size: 16px;
+}
+
 /*Nav Bar*/
 .navbar {
   background: #49222b !important;
