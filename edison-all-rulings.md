@@ -16604,23 +16604,19 @@ The following rules apply to all Spirit Monsters:
 
 - You can chain to the Special Summoning effect of "Two-Man Cell Battle".
 
-
 #### TWO-PRONGED ATTACK
 
 - "Two-Pronged Attack" targets 2 monsters you control and 1 monster your opponent  controls. Destroying 2 of your monsters is not a cost.
 
-
 #### TYPE ZERO MAGIC CRUSHER
 
 - Discarding 1 Spell Card is a cost to activate "Type Zero Magic Crusher's" Ignition-like effect.
-
 
 #### TYRANNO INFINITY
 
 - The ATK of “Tyranno Infinity” changes according to the current number of your Dinosaur removed from play.
 - Remember that monsters removed from play go to the “removed zone” of the owner,  even if controlled by the opponent, and even if they will return to the  opponent’s side of the field later because of “Interdimensional Matter  Transporter” or “Dimensionhole”.
 - If “Tyranno Infinity” is  equipped with “Megamorph” and the number of removed from play Dinosaurs  changes, first change the original ATK of “Tyranno Infinity”, and then  double or halve that value to calculate its current ATK for “Megamorph”.
-
 
 #### TYRANT DRAGON
 
@@ -16638,7 +16634,6 @@ The following rules apply to all Spirit Monsters:
 - You may Tribute a face-down Dragon-Type monster when you Special Summon "Tyrant Dragon".
 - Even if "Tyrant Dragon" was destroyed by "Dark Balter the Terrible" or some  other monster that negated the effect of "Tyrant Dragon", you must still Tribute a Dragon-Type monster if you Special Summon it because this is a condition, not an effect.
 
-
 #### TYTANNIAL, PRINCESS OF CAMELLIAS
 *(1) You can Tribute 1 face-up Plant-Type monster you control to negate the  activation of a Spell, Trap, or Effect Monster's effect that targets a  card(s) on the field and destroy it.*
 
@@ -16655,12 +16650,10 @@ The following rules apply to all Spirit Monsters:
 - If your opponent controls your  "UFO Turtle" and it is destroyed as a result of battle, you get the  effect of "UFO Turtle" NOT your opponent.
 - Since the Special Summoning occurs during the Damage Step, "Torrential Tribute", etc. cannot be used.
 
-
 #### UFOROID
 
 - If “UFOroid” attacks an Attack Position “Pyramid Turtle”, first the turn  player decides whether to activate the effect of “UFOroid” or not, and  if he does, it will be Chain Link 1. If he doesn’t, the opponent has a  chance to activate “Pyramid Turtle’s” effect and be Chain Link 1. If he  does, it is too late for the turn player to decide to activate  “UFOroid’s” effect.
 - If you do not choose to Special Summon a Machine, this card’s effect will not activate or start a chain.
-
 
 #### UFOROID FIGHTER
 
@@ -16669,8 +16662,8 @@ The following rules apply to all Spirit Monsters:
 - If “UFOroid  Fighter” is on the field, and then “Skill Drain” is activated, the  original ATK & DEF will be zero, and will remain zero even if “Skill Drain” is destroyed or negated.
 - You can Special Summon “UFOroid Fighter” using “UFOroid” and a monster that was changed to Warrior-Type with “DNA Surgery”, etc.
 
-
 #### ULTIMATE ANCIENT GEAR GOLEM
+
 *(C) This monster cannot be Special Summoned except by Fusion Summon. (1)  During battle between this attacking card and a Defense Position monster whose DEF is lower than the ATK of this card, inflict the difference as Battle Damage to your opponent. (2) If this card attacks, your opponent cannot activate Spell or Trap Cards until the end of the Damage Step.  (3) If this card is destroyed, you can Special Summon 1 "Ancient Gear  Golem" from your Graveyard, ignoring the Summoning conditions.*
 
 - The (C) Condition cannot be negated.
@@ -16689,7 +16682,6 @@ The following rules apply to all Spirit Monsters:
   - If your opponent controls your this card when it is destroyed, you can still activate this effect.
   - This "*If... you can...*" effect cannot miss the timing, even if it is destroyed as Chain Link 2+.
 
-
 #### ULTIMATE BASEBALL KID
 
 - "Ultimate Baseball Kid"’s ATK increase includes FIRE monsters on your opponent’s side of the field.
@@ -16698,24 +16690,20 @@ The following rules apply to all Spirit Monsters:
 - You cannot send a face-down FIRE monster to the Graveyard to activate "Ultimate Baseball Kid’s effect".
 - If 2 "Ultimate Baseball Kids" are on the field, and no other FIRE monsters, each of them has an ATK of 1500.
 
-
 #### ULTIMATE INSECT LV1#### 
 
 - The "you" in "on your side of the field" is the current controller’s field, so as long as "Ultimate Insect LV1" is face-up, it is always "face-up  on your side of the field".
 - "Ultimate Insect LV1"’s 2nd sentence is a Ignition Effect that is activated by sending "Ultimate Insect LV1" to the Graveyard as a cost. You can chain to this effect.
 - You cannot activate the effect of "Ultimate Insect LV1" the same turn it is flipped face-up, including by "Book of Taiyou", etc.
 
-
 #### ULTIMATE INSECT LV3#### 
 
 - The effect of "Ultimate Insect LV3" that reduces ATK by 300 points is a  Continuous Effect that is applied as long as the monster remains face-up on the field and is applied as soon as it is face-up on the field.
-
 
 #### ULTIMATE INSECT LV5#### 
 
 - If this monster is Special Summoned by the effect of “Ultimate Insect LV  3”, but is then flipped face-down, or removed from play with  “Interdimensional Matter Transporter” or “Dimensionhole”, its effect is  reset, so even if flipped face-up again, it will no longer decrease the  ATK of the opponent’s monsters.
 - You can Special Summon “Ultimate Insect LV5” with the effect of “Ultimate Insect LV3” even if that  “Ultimate Insect LV3” was not Special Summoned by the effect of  “Ultimate Insect LV1”.
-
 
 #### ULTIMATE INSECT LV7#### 
 
@@ -16723,11 +16711,12 @@ The following rules apply to all Spirit Monsters:
 - If you have 2 copies of  “Ultimate Insect LV7” each Summoned by the effect of “Ultimate Insect  LV5”, then the ATK and DEF of your opponent’s monsters are reduced by  1400 points.
 - “All your opponent’s monsters” means the monsters on your opponent’s side of the field.
 
-
 #### ULTIMATE OBEDIENT FIEND
+
 If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters, but you have Spell or Trap Cards on the field, "Ultimate  Obedient Fiend" cannot attack.
 
 #### ULTIMATE OFFERING
+
 *(1)#### You can pay 500 Life Points to Normal Summon or Set 1 extra monster. You  can only activate this effect during your Main Phase or your opponent's  Battle Phase.*
 
 - The (1) Quick-like Effect activates & resolves on the field. This card must remain face-up to resolve.
@@ -16740,28 +16729,23 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
   - This effect can be activated during your Main Phase or your opponent’s Battle Phase.
   - If this card is face-up, you can activate this effect multiple times in  the same Chain. If you cannot perform every Normal Summon / Set when  resolving the chain: reveal your hand to verify.
 
-
 #### ULTIMATE TYRANNO
 
 - If you have 2 or more “Ultimate Tyranno” in Attack Position at the start  of your Battle Phase, you choose 1 and it attacks all of your opponent’s monsters first.
 - Either player may activate effects during the  Battle Phase before "Ultimate Tyranno" attacks, as well as during, or in between its attacks.
 - If "Ultimate Tyranno" attacks and destroys an opponent's "Mystic Tomato" and they use its effect to Special Summon another monster, then "Ultimate Tyranno" must also attack the newly  Summoned monster.
 
-
 #### ULTRA EVOLUTION PILL
 
 - You can Tribute a face-down Reptile-Type monster when you activate "Ultra Evolution Pill".
-
 
 #### UMBRAL SOUL
 
 - This card’s effect will destroy “Elemental Mistress Doriado”.
 
-
 #### UNDERGROUND ARACHNID
 
 - The effect to equip your opponent’s monster to this card targets that  monster. If the targeted monster is face-down when “Underground  Arachnid’s” effect resolves, the monster is not equipped.
-
 
 #### UNIFROG
 *(1) This card can attack your opponent directly. (2) When this card  successfully attacks directly, if you control a "Frog" monster other  than "Frog the Jam" or "Unifrog", you can destroy 1 Spell or Trap your  opponent controls.*
@@ -16772,7 +16756,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
   - This effect activates in Substep 5 - After Damage Calculation (like "Spirit Reaper") [[REF](https://yugipedia.com/wiki/Forum:Question_about_unifrog_and_batteryman...)].
   - This effect targets 1 Spell / Trap Card (including equipped monsters) your opponent controls [[REF](https://yugipedia.com/wiki/Forum:Unifrog_%3F)].
 
-
 #### UNION RIDER
 
 - When you use "Union Rider"'s effect to equip a Union Monster to it, because  the Union Monster was not equipped to "Union Rider" by the Union  Monster's effect, the bonuses of the Union Monster are not applied,  including the "If the monster that this card is equipped to is destroyed in battle, this card is destroyed instead." effect.
@@ -16782,11 +16765,9 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - The Union Monster you equip to your "Union Rider" is  actually placed in your Spell & Trap Card Zone, so it counts for you for "Mage Power", etc.
 - You must have a Spell & Trap Card Zone space vacant to activate your "Union Rider"'s effect.
 
-
 #### UNLEASH YOUR POWER!#### 
 
 - Gemini Monsters you control that are already being treated as Effect Monsters  when you activate "Unleash Your Power!" are unaffected by "Unleash Your  Power!" and are not Set during the End Phase.
-
 
 #### UNSTABLE EVOLUTION
 
@@ -16799,11 +16780,9 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - If "Unstable  Evolution" is equipped to a "Fusilier Dragon, the Dual-Mode Beast" that  was Normal Summoned or Set without Tributes, its original ATK is  determined by "Unstable Evolution". When "Unstable Evolution" is negated or removed from the field, "Fusilier Dragon, the Dual-Mode Beast's" ATK becomes halved to 1400.
 - The monster equipped with "Unstable  Evolution" is not destroyed by "Overworked", because "Unstable  Evolution" changes the monster original ATK to a new value. The monster  will be destroyed if another effect increases its ATK.
 
-
 #### URGENT SYNTHESIS
 
 - Returning 1 “Iron Core of Koa’ki Meiru” to the Deck is a cost to activate “Urgent Synthesis.” The effect does not target. You cannot activate “Urgent  Synthesis” while “Transmigration Break” is active, as you cannot pay the cost to return “Iron Core of Koa’ki Meiru” to the Deck.
-
 
 #### URGENT TUNING
 *Activate only during the Battle Phase. Synchro Summon 1 Synchro Monster. (Send  the appropriate Synchro Material Monsters to the Graveyard.)*
@@ -16814,7 +16793,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - "Solemn Judgment" cannot negate the Synchro Summon performed when this effect resolves [[REF](https://www.edisonformat.com/home/rules-update-when-not-immediately-after-this-effect-resolves)].
 - If the number of monsters you control changes due to an effect chained to  “Urgent Tuning”, and you do not have a Synchro Monster of a Level you  could Summon when “Urgent Tuning” resolves, you must show your Extra  Deck to your opponent to prove that you cannot Summon a monster. You do  not have to show your Extra Deck to your opponent if you would not be  able to Synchro Summon at all when “Urgent Tuning” resolves. (Because  you control only 1 monster, or control only Tuner monsters, etc.)
 - You can use monsters that are not affected by Trap Cards, like “Elemental  Hero Wildheart” as Synchro Material Monsters for “Urgent Tuning”.
-
 
 #### URIA, LORD OF SEARING FLAMES
 *(C) This card cannot be Normal Summoned or Set. (S) This card cannot be  Special Summoned except by sending 3 face-up Trap Cards you control to  the Graveyard. (1) This card gains 1000 ATK for each Continuous Trap  Card in your Graveyard. (2) Once per turn, you can destroy 1 Set Spell  or Trap Card your opponent controls. (2C) Spell and Trap Cards cannot be activated in response to this effect's activation.*
@@ -16830,7 +16808,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - The (2C) Condition applies when the (2) effect activates, starting a chain.
   - Your opponent cannot chain "Divine Wrath" to the (2) effect.
 
-
 #### VALHALLA, HALL OF THE FALLEN
 
 - This effect starts a Chain Link. (It does not [target](https://yugipedia.com/wiki/Target). This effect cannot be activated in the same Chain Link in which this  card was activated. This effect can be activated after this card  resolves.)
@@ -16843,7 +16820,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 
 - "Royal Oppression" cannot be chained to "Call of the Mummy" or "Valhalla, Hall of the Fallen" when it is activated from the hand. However, if "Call of the Mummy" or "Valhalla, Hall of the Fallen" is already face-up on the  field and its effect is activated, then "Royal Oppression" may be  chained to negate the effect and destroy it.
 
-
 #### VALKYRION THE MAGNA WARRIOR
 
 - You can Tribute the three monsters required to Special Summon this card  from your hand, the field, or any combination of the two.
@@ -16852,7 +16828,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - If you would have 2 or less  vacant Monster Card Zones after you Tribute "Valkyrion the Magna  Warrior" you cannot use its effect to Special Summon the Magnet  Warriors.
 - The opponent can activate "Bottomless Trap Hole" and "Beta the Magnet Warrior" and "Gamma the Magnet Warrior" will be destroyed.
 - If you have "Card of Safe Return" active on the field when you Tribute  "Valkyrion the Magna Warrior" to Special Summon the Magnet Warriors, you draw only 1 card.
-
 
 #### VAMPIRE LORD
 
@@ -16879,13 +16854,11 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - When you name “Spell” for Vampire Lord, it includes Normal, Quick-Play,  Field, Ritual, Continuous, and Equip Spell Cards, and the same is true  for Traps.
 - Card effects like Penguin Knight, Sword of  Deep-Seated, and Cockroach Knight will activate their effects when sent  to the Graveyard by Vampire Lord’s effect.
 
-
 #### VAMPIRE'S CURSE
 
 - You pay 500 Life Points when "Vampire's Curse" is sent to the Graveyard. Paying 500 Life Points is a cost.
 - The effect that increases "Vampire's Curse's" ATK starts a Chain when it is Special Summoned by its effect.
 - "Vampire's Curse" is not Special Summoned with its effect if it is removed from play.
-
 
 #### VAN'DALGYON THE DARK DRAGON LORD
 *(1) After a Counter Trap Card you control negates the activation of an  opponent's card(s) or effect(s), you can Special Summon this card from  your hand. (2) Then activate the appropriate effects, based on the type  of cards negated:
@@ -16894,26 +16867,17 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 • Effect Monster: Select 1 monster in your Graveyard and Special Summon it.*
 
 - The (1) optional Trigger Effect activates & resolves in the hand.
-
-  - This effect cannot be activated during the Damage Step [[REF](http://duelistgroundz.com/index.php?/topic/70685-vandalgyon-the-dark-dragon-lord/)].
+  - This effect cannot be activated during the Damage Step [REF](http://duelistgroundz.com/index.php?/topic/70685-vandalgyon-the-dark-dragon-lord/).
   - This effect activates AFTER a Chain resolves in which an opponent's card /  effect was negated (as Chain Link 1+) by your Counter Trap Card (even if you drew this card during the Chain).
   - If you have 2 or more  "Van'Dalgyon the Dark Dragon Lord" (or "Voltanis the Adjudicator") in  your hand when your Counter Trap Card negates your opponent's effect,  you can only activate the effect of 1 "Van'Dalgyon the Dark Dragon  Lord", even if you negate multiple card effects.
   - If your opponent discards 1 Spell Card for "Magic Drain", you cannot activate this effect.
-
 - The (2) mandatory Trigger Effect activates & resolves on the field.
-
   - If you activate multiple Counter Trap Cards in a single Chain, the last one to resolve is applied.
     - Example: Your opponent activates "Card Destruction". You chain "Magic Jammer".  Your opponent chains "Seven Tools of the Bandit". You chain "Curse of  Royal". When the Chain resolves, "Magic Jammer" is your last Counter  Trap Card that resolves and negates your opponent's "Pot of Greed", so  you will be able to Special Summon "Van'Dalgyon the Dark Dragon Lord"  and activate its "inflict 1500 damage" effect.
   - If a Spell Card is negated, this effect inflicts Effect Damage.
   - If a Trap Card is negated, this effect targets a (face-up / face-down) card your opponent controls.
   - If a Monster Effect is negated, this effect targets a monster in the Graveyard. It is negated by "Necrovalley".
-
-- VS. "
-
-  Vanity's Call
-
-  ": if this card negates multiple card effects controlled by your opponent, when you Special Summon "Van'Dalgyon the Dark Dragon Lord" you will  activate each effect appropriate effect.
-
+- VS. "Vanity's Call": if this card negates multiple card effects controlled by your opponent, when you Special Summon "Van'Dalgyon the Dark Dragon Lord" you will  activate each effect appropriate effect.
   - Example: "Vanity's Call" negates your opponent's "Destiny Draw" and "Dark Bribe". Van'Dalgyon you will activate its "*inflict 1500 damage*" and "*destroy 1 card*" effects when Summoned. You can choose to have "*inflict 1500 damage*" be Chain Link 1 and "*destroy 1 card*" be Chain Link 2, or vice-versa.
 
 
@@ -16924,11 +16888,9 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - You can activate “Vanguard of the Dragon’s” ATK increase multiple times in the same turn.
 - The ATK increase lasts as long as “Vanguard of the Dragon” remains face-up on the field.
 
-
 #### VANITY'S CALL
 
 - Unless the activation of a card can be negated, the effect will not be negated either. So an effect like “Stumbling” on a chain will not be negated  nor destroyed by “Vanity’s Call”.
-
 
 #### VANITY'S FIEND
 *(C) This card cannot be Special Summoned. (1) While this card is on the field, neither player can Special Summon monsters.*
@@ -16939,11 +16901,9 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
   - Cards / Effects that perform Special Summons (ex: "Scapegoat") cannot be activated.
   - Mandatory effects (like “Gravekeeper's Spy”) still activate, but you do not Special Summon.
 
-
 #### VANITY'S RULER
 
 - Effects that would make both players Special Summon, like “The Shallow Grave”,  cannot be activated while “Vanity’s Ruler” is in play. Effects that must activate, like “Spear Cretin”, will still activate, but the effect  disappears.
-
 
 #### VARIETY COMES OUT
 
@@ -16951,11 +16911,9 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - You target the Tuner monster(s) you wish to Summon.If one of the targets is no longer in the Graveyard, you still Special Summon the rest of them.
 - If the Level of the Synchro Monster you returned was being modified, you refer to the modified Level in choosing targets.
 
-
 #### VEHICROID CONNECTION ZONE
 
 - If the Special Summoned “Vehicroid” monster is flipped face-down then the  effect of “Vehicroid Connection Zone” is no longer applied.
-
 
 #### VEIL OF DARKNESS
 
@@ -16969,7 +16927,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - If,  during your Draw Phase, you draw a DARK monster because of "Reload", you can activate "Veil of Darkness". If you draw a DARK monster because of  "Veil of Darkness, you can activate the effect of "Veil of Darkness"  again.
 - The effect of a monster like "Sillva, Warlord of Dark  World" only activates when it is "discarded to the Graveyard" from the  hand by a card effect. The effects of "Hand Destruction" and "Veil of  Darkness" "send to the Graveyard" the cards - this is not the same as  "discard to the Graveyard". Thus, if a monster like "Sillva, Warlord of  Dark World" is sent to the Graveyard by these effects, then you cannot  activate its effect.
 
-
 #### VENGEFUL SERVANT
 
 - The effect of “Vengeful Servant” starts a chain when control of the monster switches.
@@ -16977,12 +16934,10 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - If “Remove Brainwashing” is  active and a monster equipped with “Vengeful Servant” switches sides,  that monster immediately switches back to the original controller.
 - The effect of “Vengeful Servant” then starts a chain (and only activates  once, in this case) and the original controller of the monster takes  damage.
 
-
 #### VENGEFUL SHINOBI
 
 - "Vengeful Shinobi's" effect is a Trigger Effect.
 - If an effect is Chained to "Vengeful Shinobi's" effect, and changes it to  Defense Position or removes it from the field, you still draw a card.
-
 
 #### VENNOMINAGA THE DEITY OF POISONOUS SNAKES
 
@@ -16996,18 +16951,15 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - If this card is destroyed by battle with "Dark Ruler Ha Des", "Dark Ruler  Ha Des'" effect negates this card's effect in the Graveyard, and it  cannot be Special Summoned.
 - Please note the spelling of this card’s name. It is not a “Venom” monster.
 
-
 #### VENNOMINON THE KING OF POISONOUS SNAKES
 
 - This card’s effect “This card is unaffected by "Venom Swamp".” means that  counters will not be placed on it by “Venom Swamp”. Additionally, it  will not lose ATK for Venom Counters placed on it by other cards if  “Venom Swamp” is in play.
 - If this card is destroyed by battle  with "Dark Ruler Ha Des", "Dark Ruler Ha Des'" effect negates this  card's effect in the Graveyard, and it cannot be Special Summoned.
 - Please note the spelling of this card’s name. It is not a “Venom” monster.
 
-
 #### VENOM SHOT
 
 - You cannot activate this card if there are no Reptile-Type monsters in your Deck.
-
 
 #### VENOM SWAMP
 
@@ -17016,8 +16968,8 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - If a monster’s original ATK is 0, or its ATK has been reduced to 0 by  another card effect(s) and a Venom Counter is placed on it, it will not  be destroyed by “Venom Swamp”.
 - If "Venom Swamp" is negated by "Imperial Order", etc., Venom Counters placed by its effect remain in play.
 
-
 #### VERDANT SANCTUARY
+
 *(1) When a face-up Insect-Type monster is destroyed and sent to the  Graveyard, its controller can add 1 Insect-Type monster with the same  Level as the destroyed monster from their Deck to their hand.*
 
 - The (1) optional Trigger-like Effect can be activated during the Damage Step.
@@ -17029,8 +16981,8 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
   - an Insect-Type monster is destroyed while equipped to "Relinquished".
   - a non-Insect-Type monster is destroyed while treated as an Insect-Type by "DNA Surgery".
 
-
 #### VERSAGO THE DESTROYER
+
 *(1) You can substitute this card for any 1 Fusion-Material Monster. When  you do this, the other Fusion-Material Monster(s) must be the correct  one(s).*
 
 - The (1) Unclassified Effect is not an Ignition, Trigger, Quick, or Continuous Effect. It does not activate.
@@ -17039,7 +16991,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
   - This effect does not apply while "Versago the Destroyer" is in the Deck or removed from play.
   - This card cannot be sent to the Graveyard to when Special Summoning "Chimeratech Fortress Dragon" or "XYZ-Dragon Cannon".
   - If "Versago the Destroyer" is named by "Prohibition", you cannot use its effect
-
 
 #### VICIOUS CLAW
 
@@ -17053,7 +17004,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - If your opponent adds your "Vicious Claw"  to their hand and equips it to their monster, when their equipped  monster would be destroyed in battle "Vicious Claw" will return to your  hand, but your opponent will resolve its effects.
 - When "Goblin  Out of the Frying Pan" is chained to "Vicious Claw", when "Vicious Claw" is returned to its owner's hand it cannot be activated for the  remainder of the turn.
 
-
 #### VICTORIA
 *(1) Once per turn, you can select and Special Summon 1 Dragon-Type monster  in your opponent's Graveyard to your side of the field. (2) Your  opponent cannot select another face-up Fairy-Type monster as an attack  target.*
 
@@ -17063,17 +17013,14 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - The (2) Continuous Effect applies while this card is face-up on the field.
   - If you control two copies of "Victoria", your opponent cannot attack your Fairy-Type monsters.
 
-
 #### VICTORY VIPER XX03#### 
 
 - If “Victory Viper XX03” leaves the field or is flipped face-down, all of  its Option Tokens disappear. (Note that they are not “destroyed”.)
 - “Victory Viper XX03’s” effect activates during the Damage Step when the monster it destroys in battle is sent to the Graveyard.
 
-
 #### VIPER’S REBIRTH
 
 - This card targets the monster in your Graveyard. If a non-Reptile-Type  monster is in your Graveyard when this card resolves, you still Special  Summon.
-
 
 #### VIRUS CANNON
 
@@ -17082,7 +17029,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - If the number of Spell Cards remaining in your opponent's Deck is less  than the number of monsters you Tributed to activate "Virus Cannon",  every Spell Card remaining in your opponent's Deck is sent to the  Graveyard and your opponent must show you their Deck to verify.
 - You cannot Tribute a face-up "Jinzo" to activate "Virus Cannon" because  "Jinzo's" effect prevents Trap Cards from being activated.
 - Non-Monster Cards Special Summoned by the effect of "Magical Hats" can be Tributed to activate "Virus Cannon".
-
 
 #### VISER DES
 
@@ -17095,7 +17041,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - You can target a face-down monster with the effect of “Viser Des.”
 - If “Viser Des” or the targeted monster is removed from the field before  your 3rd Standby Phase, even temporarily, all effects of “Viser Des”  will stop being applied.
 
-
 #### VOLCANIC COUNTER
 *(1) When you take Battle Damage while this card is in your Graveyard,  remove it from play. Then, if there is a FIRE monster other than  "Volcanic Counter" in your Graveyard, inflict damage to your opponent  equal to the amount of Battle Damage you took.*
 
@@ -17105,7 +17050,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
   - There is no cost. "Volcanic Counter" is banished when this effect inflicts Effect Damage.
 - The (1) effect does not activate if your Life Points were reduced to 0 in Substep 4 - Damage Calculation.
 
-
 #### VOLCANIC DOOMFIRE
 
 - This card can be Special Summoned from the Graveyard, as long as it was  properly Special Summon first, and then sent to the Graveyard.
@@ -17113,32 +17057,28 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - This card’s effect “When this card  destroys a monster and sends it to the Graveyard…” only activates when  this card destroys a monster by battle.
 - If you control "Volcanic Doomfire" and another monster equipped with "Ring of Magnetism", all  your opponent's monsters must declare an attack, and the attack target  for all of them will be changed to the monster equipped with "Ring of  Magnetism".
 
-
 #### VOLCANIC HAMMERER
 
 - “Volcanic Hammerer’s” Life Point damage inflicting effect can be activated when  another card effect is preventing “Volcanic Hammerer” from attacking.
 - “Volcanic Hammerer’s” Life Point damage inflicting effect can be used by the  player taking the very first turn of the Duel, even though he/she does  not have a Battle Phase.
-
 
 #### VOLCANIC QUEEN
 
 - "Volcanic Queen's" effect starts a Chain during your End Phase. You choose to  Tribute 1 other monster or take 1000 damage when the effect resolves.
 - If "Volcanic Queen's" effect activates during the End Phase and "Remove  Brainwashing" is chained, the player that controlled "Volcanic Queen"  when its effect activated will Tribute 1 monster or take 1000 damage.
 
-
 #### VOLCANIC RECHARGE
 
 - This card targets up to 3 cards in the Graveyard.
 - If 1 or more of the targeted cards is removed from the Graveyard by an  effect Chained to “Volcanic Recharge”, the other targets will still be  returned to your Deck when “Volcanic Recharge” resolves.
-
 
 #### VOLCANIC ROCKET
 
 - You can choose "Blaze Accelerator" or "Tri-Blaze Accelerator".
 - "Volcanic Rocket's" effect does not target. You choose the card to add to your hand when it resolves.
 
-
 #### VOLCANIC SCATTERSHOT
+
 *(1) When this card is sent to the Graveyard, inflict 500 damage to your  opponent. (2) If this card is sent to the Graveyard for the effect of a  "Blaze Accelerator" card, you can send 2 "Volcanic Scattershots" from  your hand / Deck to the Graveyard to destroy all monsters your opponent  controls.*
 
 - The (1) mandatory Trigger Effect activates & resolves in the Graveyard.
@@ -17149,8 +17089,8 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
   - You can send 1 Scattershot from your hand and 1 from your Deck, or both from your Deck.
   - This effect cannot be activated while "Macro Cosmos" is active.
 
-
 #### VOLCANIC SHELL
+
 *(1) Once per turn, while this card is in the Graveyard, you can pay 500  Life Points to add 1 “Volcanic Shell” from your Deck to your hand.*
 
 - The (1) Ignition Effect activates & resolves in the Graveyard.
@@ -17159,13 +17099,11 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
   - Each copy of "Volcanic Shell" in your Graveyard may activate its effect once per turn.
   - This effect CANNOT activate while there are no copies of "Volcanic Shell" in your Deck.
 
-
 #### VOLCANIC SLICER
 
 - If “Volcanic Slicer” is flipped face-down after its effect has been  activated, and flipped-face up in the same turn, it can attack that  turn.
 - “Volcanic Slicer’s” Life Point damage inflicting effect  can be activated when another card effect is preventing “Volcanic  Slicer” from attacking.
 - “Volcanic Slicer’s” Life Point damage  inflicting effect can be used by the player taking the very first turn  of the Duel, even though he/she does not have a Battle Phase.
-
 
 #### VOLTANIS THE ADJUDICATOR
 
@@ -17184,7 +17122,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - "Royal Oppression" can be used to negate “Voltanis the Adjudicator's” effect to Special Summon itself.
 - If you activate "Magic Jammer," etc. and discard "Night Assailant" for its activation cost, the effects of "Night Assailant" and “Voltanis the  Adjudicator” will start a new Chain after the Chain that included your  "Magic Jammer" resolves. "Night Assailant's" effect will be Chain Link 1 and “Voltanis the Adjudicator's” will be Chain Link 2.
 
-
 #### VWXYZ-DRAGON CATAPULT CANNON
 
 - This card’s first effect is not optional. If the opponent has any cards on  their side of the field, you must use this effect during your turn. This effect targets and can be chained to.
@@ -17193,8 +17130,8 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - If you attack a face-down Defense Position monster and  activate this card’s effect to change its Battle Position, the monster  will be changed to face-up Attack Position. If it has a Flip Effect it  will not be activated, as stated on the card.
 - Once properly  Summoned by the method written in the text this card can be Special  Summoned from the Graveyard with effects like “Call of the Haunted” or  “Re-Fusion”.
 
-
 #### W-WING CATAPULT
+
 *(1)  Once per turn, you can equip this card to a "V-Tiger Jet" you control,  OR unequip it to Special Summon this card in face-up Attack Position.  (2) When equipped to a monster by this card's effect, the equipped  monster gains 400 ATK and DEF. (C) (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by  battle, destroy this card instead.)*
 
 #### WABOKU
@@ -17207,18 +17144,15 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - SCENARIO 3: Player A activates "Waboku". Player A's "Blue-Eyes White Dragon"  then attacks Player B's "Sanga of the Thunder". Player B uses "Sanga of  the Thunder"'s effect (during the Damage Step). RESULT: Player A's  "Blue-Eyes White Dragon" (ATK 0) is not destroyed, nor does Player A  lose any Life Points, because of Player A's "Waboku".
 - SCENARIO  4: Player A's "Mega Thunderball" attacks Player B's "Mega Thunderball".  Player B activates "Fairy Box" or "Mirror Wall". Player A activates  "Waboku". RESULT: Player A's "Mega Thunderball" (with reduced ATK) is  not destroyed, nor does Player A lose any life points, because of Player A's "Waboku". But because Player A's "Mega Thunderball" had reduced  ATK, Player B's "Mega Thunderball" is not destroyed either.
 
-
 #### WALL OF ILLUSION
 
 - If the monster battling with "Wall of Illusion" is somehow destroyed  during Damage Calculation, it is sent to the Graveyard and NOT returned  to the owner’s hand.
-
 
 #### WALL OF IVY
 
 - “Ivy Token’s” effect to inflict damage does not start a Chain.
 - If the "Ivy Token" is destroyed by a card effect, inflict damage after the effect resolves. If the "Ivy Token" is destroyed by battle, inflict  damage at the end of the Damage Step, when monsters destroyed by battle  are sent to the Graveyard.
 - If "Remove Brainwashing" or "Owner's  Seal" is activated, control of the "Ivy Token" is shifted to the player  that activated "Wall of Ivy's" effect.
-
 
 #### WALL OF REVEALING LIGHT
 
@@ -17228,12 +17162,10 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - You can chain "Last Turn" to your activation of "Wall of Revealing Light"  as long as "Last Turn"'s conditions are then correct (1000 or less Life  Points).
 - You can activate "Wall of Revealing Light" during the  Battle Step after an attack has been declared. If the monster's ATK is  lower than the Life Points you paid, the attack stops (does not enter  the Damage Step).
 
-
 #### WATAPON
 
 - If you  draw "Watapon" by the effect of "Graceful Charity" you can Special  Summon it to the field after you discard the two cards for "Graceful  Charity".
 - "Painful Choice", "Graceful Charity", and "Witch of  the Black Forest" are all examples of the types of effects that will  activate the effect of "Watapon".
-
 
 #### WATER DRAGON
 
@@ -17244,12 +17176,10 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - Missing the Timing: If “Water Dragon” is destroyed by an effect in the middle  of a chain, you will miss the timing and cannot Special Summon the 3  monsters from your Graveyard.
 - While “Water Dragon” is face-up on the field, either player can activate an effect to increase the ATK of a FIRE or Pyro-Type monster, but the Continuous Effect of “Water Dragon”  will change it back to 0.
 
-
 #### WATER HAZARD
 
 - The effect to Special Summon a monster starts a Chain.
 - If the effect of “Water Hazard” activates, and an effect is Chained that  gives you to control of a monster, the effect of “Water Hazard” will not be applied.
-
 
 #### WAVE-MOTION CANNON
 *(1) During your Main Phase, you can send this card to the Graveyard to  inflict 1000 damage to your opponent for each of your Standby Phases  that have passed since this card was activated.*
@@ -17262,7 +17192,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
   - You can activate "Wave-Motion Cannon" (place it face-up on the field) and  send it to the Graveyard during the same turn, but it will not do any  damage.
   - If "Solomon's Lawbook" skips your Standby Phase, or the  turn is skipped with "Gamble", increase the count for "Wave-Motion  Cannon" anyway. "Pyro Clock of Destiny" will not increase the count.
 
-
 #### WEAPON CHANGE
 
 - "Weapon Change" applies to the current ATK & DEF.
@@ -17274,17 +17203,14 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - If you switch a monster's  ATK/DEF with "Weapon Change", and then apply a new modifier, apply it to the switched ATK/DEF. Then, after "Weapon Change"'s effect ceases,  re-apply the modifier to the reverted ATK/DEF once again.
 - If you use "Weapon Change" to make "Gear Golem" into a 2200/800 monster, then  use "Limiter Removal" to make it 4400/800, then destroy "Weapon Change", "Gear Golem" is 800/4400.
 
-
 #### WEEPING IDOL
 
 - This is an Ignition Effect that activates in the hand. Removing from play 1 Tuner monster in your Graveyard is a cost.
-
 
 #### WHIRLWIND WEASEL
 
 - After “Whirlwind Weasel’s” Flip Effect has resolved, the effects of already  face-up Spell and Trap Cards, like “Ultimate Offering”, can still be  activated.
 - The effects of Spell and Trap Cards that activate  when the card is destroyed, such as “Blast with Chain” or “Ojamagic”  will also still be activated. (In other words, you cannot activate a  card, but you can activate an effect.)
-
 
 #### WHITE MAGICIAN PIKERU
 
@@ -17292,7 +17218,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - Even if there are many monsters, "White Magician Pikeru" increases Life Points by 1 lump sum.
 - "White Magician Pikeru" includes itself in its effect.
 - If you resolve "White Magician Pikeru"'s effect and then in the same  Standby Phase the number of monsters on the field increases, you don't  get additional Life Points.
-
 
 #### WHITE NIGHT DRAGON
 *(1) Negate the activation of any Spell or Trap Card that targets this card, and destroy that card. (2) When a face-up monster you control is  selected as an attack target, you can send 1 Spell or Trap Card you  control to the Graveyard to change the target to this card.*
@@ -17306,12 +17231,10 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
   - If you control your opponent’s monster with “Snatch Steal” while you have  “White Night Dragon” in play and your opponent attacks the equipped  monster, if you send “Snatch Steal” to the Graveyard to change the  attack target no replay occurs.
   - If this effect is negated by “Skill Drain,” a replay occurs.
 
-
 #### WHITE POTAN
 
 - If “White Potan” becomes a Tuner, it cannot be destroyed by battle.
 - If a monster being treated as a Tuner is destroyed by battle and sent to  the Graveyard, it is not considered a Tuner in the Graveyard, and the  effect of “White Potan” to inflict damage will not activate.
-
 
 #### WICKED REBIRTH
 
@@ -17321,12 +17244,10 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - If you Special Summon “Stardust Dragon” with “Wicked Rebirth,” you can  Tribute “Stardust Dragon” for its effect. After it is Tributed,  “Stardust Dragon” is no longer targeted by “Wicked Rebirth.” Therefore  its effect is restored and applied normally (so it negates an effect and is Special Summoned back to the field during the End Phase).
 - The Special Summon of “Wicked Rebirth” is not a Synchro Summon, so it  cannot be used to Special Summon monsters like “Trident Dragion.”
 
-
 #### WICKED-BREAKING FLAMBERGE - BAOU
 
 - Sending 1 card to the Graveyard is a cost. This is not "discarding" so it  doesn't trigger "Forced Requisition", and you can pay the cost even if  "Goblin of Greed" is in play.
 - If a monster equipped with  "Wicked-Breaking Flamberge - Baou" attacks and destroys "Amazoness  Fighter" or "Amazoness Swordswoman", their effects are not negated  because they happen during damage calculation, before they are  determined to have been destroyed.
-
 
 #### WIDESPREAD DUD
 
@@ -17335,7 +17256,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - Even if one of the targeted monsters is  changed to Defense Position after “Widespread Dud” resolves it will  still be affected by “Widespread Dud.”
 - If “Book of Moon” is  Chained to “Widespread Dud” and flips one of the targeted monsters  face-down, only the other one will continue to be targeted.
 - After “Widespread Dud” resolves, when one of the targeted monsters is removed from the field “Widespread Dud” is destroyed and the other monster is  destroyed. 
-
 
 #### WILD FIRE
 
@@ -17347,14 +17267,12 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - You can activate "Royal Oppression" in a chain to "Wild Fire".
 - "Blaze Accelerator" is destroyed when "Wild Fire" resolves. If an effect is  chained that removes "Blaze Accelerator" from the field, "Wild Fire's"  effect disappears and you can attack that turn.
 
-
 #### WILD NATURE'S RELEASE
 
 - When you increase the ATK of a monster with "Wild Nature's Release", then  apply another modifier, the new modifier is applied to the current ATK  points.
 - If "Ojama Yellow" is equipped with "Axe of Despair"  (1000 ATK, 1000 DEF), if "Wild Nature's Release" is activated then it  increases "Ojama Yellow" to 2000 ATK, 1000 DEF. If "Axe of Despair" is  then destroyed, "Ojama Yellow" remains 2000 ATK, 1000 DEF.
 - If a  monster is affected by "Wild Nature's Release", and its Type is then  changed with "DNA Surgery", the effect of "Wild Nature's Release" is not negated and the monster is still destroyed during the End Phase.
 - If you activate multiple "Wild Nature's Releases", the effects are cumulative.
-
 
 #### WINGED KURIBOH
 
@@ -17367,7 +17285,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - If “Winged Kuriboh” is treated as an Equip Card (like if  it’s equipped to “Relinquished”) and it’s destroyed and sent to the  Graveyard, its effect still activates.
 - If your opponent takes  control of your “Winged Kuriboh” and when it tries to return to your  control you have no open Monster Card Zones, “Winged Kuriboh” is  destroyed and sent to the Graveyard, and its effect activates.
 
-
 #### WINGED KURIBOH LV10#### 
 
 - “Winged Kuriboh LV10's” effect is a Quick Effect. You cannot activate this effect during the Damage Step.
@@ -17379,13 +17296,11 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - If an  opponent’s monster cannot be destroyed by the effect of “Winged Kuriboh  LV10”, no damage is dealt for that monster’s ATK. For example, if  “Master Monk” targeted by “Lone Wolf” is on the field, it is unaffected  by monster effects, so it will not be destroyed and its 1900 original  ATK points will not be inflicted to its controller.
 - You can  activate the effect of “Winged Kuriboh LV10” if “Skill Drain” is on the  field, and its effect will resolve normally and not be negated, because  it is no longer a face-up monster on the field.
 
-
 #### WINGED MINION
 
 - If the Fiend-Type monster that received the ATK and DEF increase from this card’s effect is flipped face-down, the effect is reset and the ATK and DEF return to the original amounts.
 - You may Tribute two "Winged Minions" to increase the ATK and DEF of a Fiend-Type monster by 1400 points.
 - If the Fiend-Type monster that was selected for this card’s effect is  changed into a different Type, by the effect of "DNA Surgery" for  example, it retains the 700 point ATK and DEF increase.
-
 
 #### WINGED RHYNOS
 
@@ -17393,11 +17308,9 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - This effect is a Spell Speed 2 Quick Effect. Therefore, it cannot be chained to the activation of a Counter Trap Card.
 - This effect can be activated multiple times in the same chain, but only once for each Trap Card activated.
 
-
 #### WITCH DOCTOR OF SPARTA
 
 - If 2 or more monsters are Special Summoned by the same effect, “Witch  Doctor of Sparta’s” effect will only activate once and it will inflict  500 points of damage.
-
 
 #### WITCH OF THE BLACK FOREST
 
@@ -17407,13 +17320,11 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - If you control your opponent’s "Witch of the Black Forest" and it is  destroyed, your opponent gets the effect since it activates in his/her  Graveyard.
 - You can chain to the activation of "Witch of the Black Forest"’s effect.
 
-
 #### WITCH OF THE BLACK ROSE
 
 - “This card cannot be Special Summoned” is not treated as an effect.
 - If you have no cards in your Deck when you activate the effect of “Witch of the Black Rose,” you will lose the Duel.
 - If you activate the effect of “Witch of the Black Rose” while you have no  cards in your hand and you draw “Infernity Archfiend,” you can activate  the effect of “Infernity Archfiend.” You resolve the effect of “Witch of the Black Rose” like this: -Draw 1 card. If it is a monster, the effect is over. -If not, destroy “Witch of the Black Rose” and send the card  drawn to the Graveyard. (Destroying and sending the card occur at the  same time.)
-
 
 #### WOLF IN SHEEP’S CLOTHING
 
@@ -17426,7 +17337,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - You cannot activate “Wolf in Sheep’s Clothing” if you don’t have a monster  in your Deck of the same name as a Level 1 monster in your hand.
 - The card you reveal is revealed until “Wolf in Sheep’s Clothing” is completely resolved. 
 
-
 #### WONDER CLOVER
 
 - Sending a Plant from your hand to the Graveyard is a cost to activate “Wonder Clover.”
@@ -17435,11 +17345,9 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - You cannot target a  monster with “Wonder Clover” if it is already affected by a card like  “Twin Swords of Flashing Light – Tryce.”
 - If “Imperial Order” is activated, you still cannot attack with other monsters.
 
-
 #### WOODLAND ARCHER
 
 - Tributing this monster is a cost.
-
 
 #### WOODLAND SPRITE
 
@@ -17450,7 +17358,6 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - You can activate "Premature Burial" to  Special Summon "Woodland Sprite" from your Graveyard, and then its  effect to send "Premature Burial" to the Graveyard and "Woodland Sprite" will remain on the field. This is because "Premature Burial" was not  destroyed.
 - If you opponent activates "Snatch Steal" and equips  it to your "Woodland Sprite", they may choose to activate its effect and send "Snatch Steal" to the Graveyard. You will take 500 damage, and  then control of "Woodland Sprite" would return to you.
 
-
 #### WRATH OF NEOS
 
 - “Wrath of Neos” targets 1 face-up monster named “Elemental Hero Neos” you control.
@@ -17458,12 +17365,10 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - You can activate “Wrath of Neos” and target a Token or “Embodiment of  Apophis” being treated as “Elemental Hero Neos” by "Hero Mask." If you  target a Token, you cannot return it to the Deck or destroy all cards on the field. If you target “Embodiment of Apophis,” you can return it to  the Deck and destroy all cards on the field.
 - If your opponent  gains control of “Elemental Hero Neos” targeted by “Wrath of Neos”  before it resolves, you still return that card to your Deck and destroy  all cards on the field.
 
-
 #### WROUGHTWEILER
 
 - The effect of “Wroughtweiler” targets.
 - If the necessary 2 cards are not in the Graveyard when the effect of  “Wroughtweiler” resolves, the effect disappears. Even if the effect  cannot resolve, it still starts a chain.
-
 
 #### WYNN THE WIND CHARMER
 
@@ -17475,66 +17380,51 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - If “DNA Transplant” changes a monster’s Attribute so that it can be taken  by a “Charmer”, and then “DNA Transplant” is destroyed so that the  monster’s Attribute no longer corresponds to the effect of the  “Charmer”, the controller of the “Charmer” loses control of the monster.
 - If the turn player controls a “Charmer” and a monster controlled by its  effect, and activates “Assault on GHQ” and targets the controlled  monster, and the opponent chains an effect to destroy the “Charmer”, the controlled monster returns to the opponent’s control, but is still  destroyed by the effect of “Assault on GHQ”.
 
-
 #### XING ZHEN HU
 
 - You can chain one of the 2 Spell or Trap Cards on the field to the  activation of "Xing Zhen Hu". However, the remaining one will not be  able to be activated after "Xing Zhen Hu" resolves.
 - If neither  of the targeted Spell or Trap Cards is on the field when "Xing Zhen Hu"  resolves, then "Xing Zhen Hu" remains on the field meaninglessly.
 
-
 #### X-SABER URBELLUM
-*(1)#### When this card inflicts Battle Damage to your opponent while they have 4 or  more cards in their hand, place 1 random card from their hand on top of  their Deck.*
+
+*(1)When this card inflicts Battle Damage to your opponent while they have 4 or  more cards in their hand, place 1 random card from their hand on top of  their Deck.*
 
 - The (1) mandatory Trigger Effect activates & resolves on the field.
   - This effect activates in Substep 5 - After Damage Calculation.
   - This effect will only activate if your opponent has 4(+) cards in hand.
   - This effect returns a card, even if your opponent no longer has 4(+) cards in hand.
 
-
 #### XX-SABER FAULTROLL
+
 *(C) This card cannot be Normal Summoned or Set. This card cannot be Special Summoned except while you control 2 or more face-up "X-Saber" monsters. (1) Once per turn, you can Special Summon 1 Level 4 or lower "X-Saber"  monster from your Graveyard.*
 
 - The (C) Summon Condition cannot be negated.
   - This card can only be Special Summoned (by its effect) from the hand.
-  - This card cannot be Special Summoned by "Gottoms' Emergency Call" [[REF](https://www.pojo.biz/board/showthread.php?t=852661)].
+  - This card cannot be Special Summoned by "Gottoms' Emergency Call" [REF](https://www.pojo.biz/board/showthread.php?t=852661).
 - The (1) Ignition Effect activates & resolves on the field.
   - Each copy of "XX-Saber Faultroll" can activate this effect once per turn (while it is face-up).
   - This effect targets 1 Level 4 or lower “X-Saber” in your Graveyard. It is negated by "Necrovalley."
   - This effect can target “XX-Saber” monsters as well (they are also “X-Saber” monsters).
 
-
 #### XX-SABER FULHELMKNIGHT
+
 *(1) Once, while this card is face-up on the field; you can negate the  attack of 1 of your opponent’s monsters. (2) If this card destroys a  Defense Position monster your opponent controls by battle, you can  Special Summon 1 Level 4 or lower “X-Saber” monster from your Graveyard.*
 
 - This (1) optional Trigger Effect activates & resolves on the field.
-
   - This effect activates in Start of the Battle Step - Attack Declaration (like "Mirror Force").
   - '*Once, while this card is face-up on the field*' is a Condition. It cannot be negated.
   - If this card is flipped face-down / leaves the field, this effect can be used again.
-
 - The (2) optional Trigger Effect activates in Substep 7 - End of the Damage Step.
-
-  - This effect targets an X/XX-Saber monster in your Graveyard; it is negated by "Necrovalley" [[REF](https://www.pojo.biz/board/showthread.php?t=848277)].
-
-  - This effects activates & resolves even if "XX-Saber Fulhelmknight" leaves the field [
-
-    REF1
-
-    , 
-
-    REF2
-
-    ].
-
-    - Example: "Ryko, Lightsworn Hunter" is destroyed by battle, its Flip Effect  destroys Fulhelmknight during Substep 6 - Resolve Effects, and  Fulhelmknight's effect activates in Substep 7 - End of the Damage Step) [[REF1](https://www.pojo.biz/board/showthread.php?t=835785), [REF2](https://www.pojo.biz/board/showthread.php?t=825682)].
-
+  - This effect targets an X/XX-Saber monster in your Graveyard; it is negated by "Necrovalley" [REF](https://www.pojo.biz/board/showthread.php?t=848277).
+  - This effects activates & resolves even if "XX-Saber Fulhelmknight" leaves the field [REF1](https://www.pojo.biz/board/showthread.php?t=835785) [REF2](https://www.pojo.biz/board/showthread.php?t=825682).
+    - Example: "Ryko, Lightsworn Hunter" is destroyed by battle, its Flip Effect  destroys Fulhelmknight during Substep 6 - Resolve Effects, and  Fulhelmknight's effect activates in Substep 7 - End of the Damage Step) [REF1](https://www.pojo.biz/board/showthread.php?t=835785), [REF2](https://www.pojo.biz/board/showthread.php?t=825682).
 
 #### XX-SABER GARSEM
 
 - This effect activates even if destroyed by a card effect during the Damage Step.
 
-
 #### XX-SABER GOTTOMS
+
 *1 Tuner + 1 or more EARTH monsters
 (1) You can Tribute 1 "X-Saber" monster to discard 1 random card from your opponent's hand.*
 
@@ -17545,11 +17435,9 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
   - This effect can be activated multiple times per turn.
   - This effect cannot be activated while your opponent has no cards in hand.
 
-
 #### XX-SABER HYUNLEI
 
 - This effect targets up to three Spell and Trap Cards.
-
 
 #### XX-SABER RAGIGURA
 
@@ -17557,8 +17445,8 @@ If you control "Ultimate Obedient Fiend" and have no hand and no other  monsters
 - You can select “XX-Saber” monsters with this effect because they are also “X-Saber” monsters.
 
 
-
 #### XYZ FUSION MONSTERS
+
 The following rules apply to "XYZ-Dragon Cannon", "YZ-Tank Dragon", "XY-Dragon Cannon", and "XZ-Tank Cannon".
 
 - These monsters cannot be Special Summoned from the Extra Deck except by the  method described in their text. So they cannot be Special Summoned by  the effect of "Magical Scientist" or "Summoner of Illusions". They  cannot be Special Summoned from the Graveyard even after they have been  Special Summoned by the method described in their texts.
@@ -17566,25 +17454,21 @@ The following rules apply to "XYZ-Dragon Cannon", "YZ-Tank Dragon", "XY-Dragon C
 - You CAN remove a face-down "X-Head Cannon", etc., from play to Special Summon one of these monsters from the Extra Deck.
 - The Special Summoning of these monsters from the Extra Deck has no Spell  Speed and cannot be chained to (but can be negated with "Solemn  Judgment").
 
-
 #### YAMATO-NO-KAMI
 
 - When  "Yamato-no-Kami" destroys an opponent's monster by battle, its effect  activates at the end of the Damage Step, when monsters that are  destroyed in battle are sent to the Graveyard.
 - This effect targets 1 Spell or Trap Card your opponent controls.
-
 
 #### YATA-GARASU
 
 - If the Battle Damage caused by this card is reduced to 0 (with the effect  of "Kuriboh", "Waboku", etc.) its effect is not activated.
 - If  this face-down Defense Position card is attacked by a monster with 0  ATK, its effect will activate, since Battle Damage was inflicted to the  attacking player.
 
-
 #### Y-DRAGON HEAD
 
 *(1) Once per turn, during your Main Phase, you can equip this card to  "X-Head Cannon" you control as an Equip Card, OR unequip it to Special  Summon this card in face-up Attack Position. (2) While equipped to a  monster by this effect, that monster gains 400 ATK and DEF. (C) (A  monster can only be equipped with 1 Union Monster at a time. If the  equipped monster would be destroyed by battle, destroy this card  instead.)*
 
 - If "Y-Dragon Head"'s ATK is doubled with "Limiter  Removal", and then "Y-Dragon Head" is equipped to "X-Head Cannon",  "Y-Dragon Head" is not destroyed at the end of the turn.
-
 
 #### YELLOW BABOON, ARCHER OF THE FOREST
 
@@ -17600,12 +17484,10 @@ The following rules apply to "XYZ-Dragon Cannon", "YZ-Tank Dragon", "XY-Dragon C
   - the Beast destroyed by battle is removed from play (by "D.D. Warrior Lady").
   - the Beast destroyed by battle is removed from play by "Macro Cosmos".
 
-
 #### YOMI SHIP
 
 - This card does NOT target. So it will destroy a Dragon even if "Lord of D." is in play, etc.
 - If destroyed by "Dark Ruler Ha Des", etc., the effect of "Yomi Ship" is negated.
-
 
 #### YUBEL
 
@@ -17615,19 +17497,16 @@ The following rules apply to "XYZ-Dragon Cannon", "YZ-Tank Dragon", "XY-Dragon C
 - The  owner of "Yubel" activates the effect. (If your opponent controls your  "Yubel" when it is destroyed, you get the effect, not your opponent.)
 - When "Yubel" is destroyed during the Damage Step, its effect can be activated.
 
-
 #### YUBEL - TERROR INCARNATE
 
 - Destroying all other monsters during the End Phase is a Trigger Effect.
 - When a face-up "Yubel - Terror Incarnate" is sent to Graveyard, removed from play, or returned to its owner's hand, its effect to Special Summon  "Yubel - The Ultimate Nightmare" activates. This effect cannot be  activated when it is returned to its owner's Deck.
 - When "Yubel - Terror Incarnate" is removed from the field, its owner activates its  effect. (If your opponent controls your "Yubel - Terror Incarnate" when  it is removed from the field, you get the effect, not your opponent.)
 
-
 #### YUBEL - THE ULTIMATE NIGHTMARE
 
 - When "Yubel - The Ultimate Nightmare" battles with a monster that cannot be  destroyed by its effect, like "Vennominaga, the Deity of Poisonous  Snakes", "Yubel - The Ultimate Nightmare's" effect still inflicts damage but will not destroy the monster.
 - When "Yubel - The Ultimate  Nightmare" destroys a monster in battle, its effect still inflicts  damage but the effect to destroy the monster it battled with disappears.
-
 
 #### ZABORG THE THUNDER MONARCH
 
@@ -17636,17 +17515,14 @@ The following rules apply to "XYZ-Dragon Cannon", "YZ-Tank Dragon", "XY-Dragon C
 - If you target "Chaos Command Magician" with "Zaborg the Thunder Monarch"'s effect, the effect is negated.
 - If you Tribute Set "Zaborg the Thunder Monarch" face-down the effect is not activated.
 
-
 #### ZEMAN THE APE KING
 
 - Sending a monster to the Graveyard is a cost. You can send a face-down monster. The effect that negates an attack targets the attacking monster. 
-
 
 #### ZERADIAS, HERALD OF HEAVEN
 
 - If this monster is attacked while in face-down Defense Position, and  "Sanctuary in the Sky" is not in play, this monster will be destroyed by its effect after Damage Calculation.
 - This effect does not use the Chain.
-
 
 #### ZERO GARDNA
 
@@ -17654,11 +17530,9 @@ The following rules apply to "XYZ-Dragon Cannon", "YZ-Tank Dragon", "XY-Dragon C
 - You cannot activate this card during the Damage Step.
 - Monsters Summoned to your side of the field after the activation of "Zero Gardna's" effect will also be protected by it.
 
-
 #### ZERO GRAVITY
 
 - "Zero Gravity" won't flip a card face-down.
-
 
 #### ZETA RETICULANT
 
@@ -17668,13 +17542,11 @@ The following rules apply to "XYZ-Dragon Cannon", "YZ-Tank Dragon", "XY-Dragon C
 - “Zeta Reticulant” will Summon an “Eva Token” even if your opponent’s monster is removed from play face-down.
 - If your Monster Card Zones are full and your opponent’s monster is removed from play, the effect of “Zeta Reticulant” activates but its effect is  not applied.
 
-
 #### Z-METAL TANK
 
 *(1) Once  per turn, during your Main Phase, you can equip this card to "X-Head  Cannon" or "Y-Dragon Head" you control as an Equip Card, OR unequip it  to Special Summon this card in face-up Attack Position. (2) While  equipped to a monster by this effect, that monster gains 600 ATK and  DEF. (C) (A monster can only be equipped with 1 Union Monster at a time. If the equipped monster would be destroyed by battle, destroy this card instead.)*
 
 - If "Z-Metal Tank"'s ATK is doubled with "Limiter  Removal", and then "Z-Metal Tank" is equipped to "X-Head Cannon",  "Z-Metal Tank" is not destroyed at the end of the turn.
-
 
 #### ZOLGA
 
@@ -17684,12 +17556,10 @@ The following rules apply to "XYZ-Dragon Cannon", "YZ-Tank Dragon", "XY-Dragon C
 - The effect of "Zolga" can be chained to, and is Step 1 of a chain after a  successful Summon. Effects like "Trap Hole" would be Step 2.
 - When you Tribute Summon with 2 "Zolgas", both "Zolgas" effects are activated.
 
-
 #### ZOMBIE MAMMOTH 
 
 - If "Zombie Mammoth" is attacked while face-down and its controller does  not have any Zombie-Type monsters in their Graveyard, "Zombie Mammoth"  is destroyed by its effect after damage calculation.
   - If it is destroyed by the battle, its effect is not applied.
-
 
 #### ZOMBIE MASTER
 
@@ -17704,13 +17574,11 @@ The following rules apply to "XYZ-Dragon Cannon", "YZ-Tank Dragon", "XY-Dragon C
   - If "Zombie Master" if flipped face-down / leaves the field, the target is not Special Summoned.
 - This effect cannot activate without a legal target in any Graveyard, even if you would discard a Level 4 or lower Zombie-Type monster.
 
-
 #### ZOMBIE TIGER
 
 *(1) Once per turn, during your Main Phase, if you control this card on the  field, you can equip it to your "Decayed Commander" as an Equip Card, OR unequip the Union equipment and Special Summon this card in face-up  Attack Position. (2) While equipped to a monster by this card's effect,  increase the ATK/DEF of the equipped monster by 500 points, and each  time it destroys 1 of your opponent's monsters, your opponent discards 1 card randomly from his/her hand. (C) (1 monster can only be equipped  with 1 Union Monster at a time. If the equipped monster is destroyed as a result of battle, destroy this card instead.)*
 
 - When a  monster equipped with "Zombie Tiger" destroys another monster, the  discard effect is applied before the destroyed monster is sent to the  Graveyard.
-
 
 #### ZOMBIE WORLD
 
@@ -17726,7 +17594,6 @@ The following rules apply to "XYZ-Dragon Cannon", "YZ-Tank Dragon", "XY-Dragon C
 - VS. "[Rivalry of Warlords](https://yugipedia.com/wiki/Rivalry_of_Warlords)": You cannot Normal / Special Summon a non-Zombie-Type monster from your  hand / Deck / Graveyard / removed from play while you control a face-up  Zombie-Type monster.
 - VS. "[DNA Surgery](https://yugioh.fandom.com/wiki/DNA_Surgery)": Whichever card resolved most recently applies its effect.
 - VS. "[Solidarity](https://yugipedia.com/wiki/Solidarity)": The ATK gain applies if the original (printed) Type of monsters in your Graveyard match.
-
 
 #### ZOMBYRA THE DARK
 
