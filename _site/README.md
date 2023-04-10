@@ -1,9 +1,9 @@
-## retroRulings
+## Goat Rulings
 
-https://retro-rulings.com/
+https://goatrulings.com/
 
-**Rulings for past Yu-Gi-Oh! Formats**
-Currently hosting Goat Format rulings and working on adding Ruler/Fire-Water/Vegas Rulings.  
+**Rulings for Yu-Gi-Oh! Goat Format**
+Hosting Rulings for Goat Format
 Help is always appreciated feel free to drop missing rulings either by opening an issue or pull request
 
 ## Environment
