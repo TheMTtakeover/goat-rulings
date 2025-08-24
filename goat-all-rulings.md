@@ -1357,8 +1357,10 @@ Individual Card FAQs:
 
 *   If the monster targeted by “Brain Control” is flipped face-down later in the turn, it is still returned back to the original controller in the End Phase.
 *   You cannot activate “Brain Control” if you already have 5 monsters on your side of the field.
-*   Email Rulings:
-*   \[If "Book of Moon" is chained to "Brain Control," turning the target of "Brain Control" face-down,\] the effect of "Brain Control" would disappear \[and\] the targeted monster will remain where it is.
+
+Judge List Rulings:
+
+*   If "Book of Moon" is chained to "Brain Control," turning the target of "Brain Control" face-down, the effect of "Brain Control" would disappear and the targeted monster will remain where it is.
 
 Related Rulings:
 
@@ -1449,7 +1451,7 @@ Netrep Rulings:
 
 Judge List Rulings:
 
-*   The field-destruction effect \[of "Burning Land"\] is a one-time deal that only happens when the card first resolves. The only continuous effect is the damage it inflicts. Curtis Schultz, 01/21/2005
+*   The field-destruction effect of "Burning Land" is a one-time deal that only happens when the card first resolves. The only continuous effect is the damage it inflicts. Curtis Schultz, 01/21/2005
 
 #### BURST BREATH
 
@@ -5841,7 +5843,12 @@ Netrep Rulings:
 *   “Last Will” will only trigger when your monster is sent to your Graveyard. “Last Will” does not trigger if Tokens are sent to the Graveyard. For each “Last Will” played, one monster will be Special Summoned if a monster goes from the field to the Graveyard.
 *   Monsters sent to the Graveyard in the Battle Phase of a turn “Last Will” has been activated are Special Summoned in that Battle Phase and if in Attack position may attack.
 *   “Last Will’s” effect can trigger in the End Phase.
-*   If a monster that has a\[n optional\] Graveyard effect is sent to the Graveyard the same Turn “Last Will” was played, the controlling player may choose the order the effects resolve in.
+*   If a monster that has an optional Graveyard effect is sent to the Graveyard the same Turn “Last Will” was played, the controlling player may choose the order the effects resolve in.
+
+Judge List Rulings:
+
+*   You cannot choose when to activate the state-based effect, as it will trigger automatically the next time a monster is sent to the Graveyard. Since Last Will is an optional effect, its controller can choose to not Special Summon a monster, but the state based effect will not reset. Once its condition has been met, that is the only chance you will have that turn to Special Summon a monster. Ian Estrin, 01/20/2005
+*   You can activate "Last Will" while "Jowgen the Spiritualist" is on the field because "Last Will" does not Special Summon a monster when it resolves. But as long as "Jowgen the Spiritualist" is still face-up on the field you won't be able to Special Summon a monster when the proper event occurs. Curtis Schultz, 04/07/2005
 
 #### LAVA GOLEM
 
@@ -5860,6 +5867,10 @@ Netrep Rulings:
 *   “Lava Golem’s” condition preventing Normal Summons and Sets during the turn “Lava Golem” was Special Summoned applies even if “Lava Golem” is Special Summoned from the Graveyard.
 *   If “Remove Brainwashing” is on the field, “Lava Golem” will change control to the owner’s side of the field.
 *   If “Skill Drain” is active on the field, the 1000 Damage inflicted by “Lava Golem” every Standby Phase is negated. If “Skill Drain” is active on the field, the condition preventing Normal Summons and Sets the turn “Lava Golem” is Special Summoned is not negated.
+
+Judge List Rulings:
+
+*   You can tribute "Jowgen the Spiritualist" or "The Last Warrior from Another Planet" to Special Summon "Lava Golem" to the field. Because you Tribute "Jowgen the Spiritualist" or "The Last Warrior from Another Planet" it will no longer be on the field to prevent Lava Golem from being Special Summoned. Curtis Schultz, 1/4/2005
 
 #### LEGACY HUNTER
 
@@ -7343,6 +7354,10 @@ Individual Card FAQs:
 *   You can't use "Pandemonium" to add a Fusion Monster Archfiend from the Fusion Deck to your hand, like "Fiend Skull Dragon".
 *   If multiple Archfiends are destroyed at the same time by "Raigeki", you can only add 1 Archfiend from your Deck to your hand with "Pandemonium".
 *   When your Archfiends controlled by your opponent are sent to your Graveyard, you can add an Archfiend from your Deck to your hand with "Pandemonium".
+
+Judge List Rulings:
+
+*   When "Archfiend of Gilfer" is sent to the Graveyard as an Equip Spell Card, it will NOT trigger "Pandemonium"'s effect. Dan Scheidegger, 12/6/04
 
 #### PALADIN OF WHITE DRAGON
 
