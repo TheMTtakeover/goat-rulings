@@ -19,3 +19,7 @@ Netrep Rulings:
 *   “Lava Golem’s” condition preventing Normal Summons and Sets during the turn “Lava Golem” was Special Summoned applies even if “Lava Golem” is Special Summoned from the Graveyard.
 *   If “Remove Brainwashing” is on the field, “Lava Golem” will change control to the owner’s side of the field.
 *   If “Skill Drain” is active on the field, the 1000 Damage inflicted by “Lava Golem” every Standby Phase is negated. If “Skill Drain” is active on the field, the condition preventing Normal Summons and Sets the turn “Lava Golem” is Special Summoned is not negated.
+
+Judge List Rulings:
+
+*   You can tribute "Jowgen the Spiritualist" or "The Last Warrior from Another Planet" to Special Summon "Lava Golem" to the field. Because you Tribute "Jowgen the Spiritualist" or "The Last Warrior from Another Planet" it will no longer be on the field to prevent Lava Golem from being Special Summoned. Curtis Schultz, 1/4/2005

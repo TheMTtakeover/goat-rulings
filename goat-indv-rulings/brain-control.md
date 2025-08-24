@@ -8,8 +8,10 @@ Individual Card FAQs:
 
 *   If the monster targeted by “Brain Control” is flipped face-down later in the turn, it is still returned back to the original controller in the End Phase.
 *   You cannot activate “Brain Control” if you already have 5 monsters on your side of the field.
-*   Email Rulings:
-*   \[If "Book of Moon" is chained to "Brain Control," turning the target of "Brain Control" face-down,\] the effect of "Brain Control" would disappear \[and\] the targeted monster will remain where it is.
+
+Judge List Rulings:
+
+*   If "Book of Moon" is chained to "Brain Control," turning the target of "Brain Control" face-down, the effect of "Brain Control" would disappear and the targeted monster will remain where it is.
 
 Related Rulings:
 
