@@ -7,7 +7,7 @@ https://goatrulings.com/
 - Help is always appreciated feel free to drop missing rulings either by opening an issue or pull request
 
 ## Environment
-- Ruby version 3.2.3
+- Ruby version 3.3.8
 - Jekyll version 4.4.1
-- Bootstrap version 5.3.3
+- Bootstrap version 5.3.8
 - Font Awesome version 6.7.2
