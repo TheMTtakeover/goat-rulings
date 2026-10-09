@@ -4,7 +4,7 @@ layout: all-rulings
 
 ## The Basics
 
-GoatFormat.com has an excellent write-up that covers all of the basics of Goat Format and how it differs from modern Yu-Gi-Oh!  <a href="https://www.goatformat.com/basics.html" target="_blank">Check it out here</a>
+GoatFormat.com has an excellent write-up that covers all of the basics of Goat Format and how it differs from modern Yu-Gi-Oh! <a href="https://www.goatformat.com/basics.html" target="_blank">Check it out here</a>
 
 ## Card Rulings
 
@@ -5860,7 +5860,7 @@ Individual Card FAQs:
 *   If you Special Summon "Lava Golem" onto your opponent’s side of the field they can activate "Bottomless Trap Hole" since you performed the Summon. You could not activate "Bottomless Trap Hole" even though the "Lava Golem" will be on their side of the field.
 *   You can Tribute "Sheep Tokens" to Special Summon "Lava Golem" because it is not a Tribute Summon.
 *   Since Tributed monsters are not considered to be targeted, you can use "Lava Golem" and Tribute your opponent's Dragons even if he has "Lord of D." on the field.
-*   You cannot Special Summon "Lava Golem" if the opponent has "Jowgen the Spiritualist" face-up on the field, nor can you Tribute their "Jowgen the Spiritualist" to Special Summon "Lava Golem".
+<!-- *   You cannot Special Summon "Lava Golem" if the opponent has "Jowgen the Spiritualist" face-up on the field, nor can you Tribute their "Jowgen the Spiritualist" to Special Summon "Lava Golem". This UDE ruling has been removed due to the ruling not being added until 9/28/05 which would have been after goat format. See https://github.com/TheMTtakeover/goat-rulings/issues/155 for more infromation -->
 
 Netrep Rulings:
 
